@@ -1,0 +1,1042 @@
+Taxa,ID,Meds,Magnitude,Cohort,Group,P value,Influence
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Busulfan,0.327778636,HSCT,Single drug analysis,4.91E-19,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Busulfan,-3.330932843,HSCT,Single drug analysis,0.025955712,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Busulfan,0.320800232,HSCT,Single drug analysis,0.044055203,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,Busulfan,0.2321848,HSCT,Single drug analysis,4.03E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Busulfan,2.400543179,HSCT,Single drug analysis,0.0004954,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Cyclophosphamide,8.098662991,HSCT,Single drug analysis,0.002739341,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Cyclophosphamide,0.614902136,HSCT,Single drug analysis,0.033295296,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Cyclophosphamide,1.526598189,HSCT,Single drug analysis,5.27E-05,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Cyclophosphamide,2.639927543,HSCT,Single drug analysis,0.001413433,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Cyclophosphamide,2.191141411,HSCT,Single drug analysis,0.000623196,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Cyclophosphamide,0.518604125,HSCT,Single drug analysis,0.00053937,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__.s__,f__Rikenellaceae,Cyclophosphamide,0.288596217,HSCT,Single drug analysis,1.78E-05,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__putredinis,A. putredinis,Cyclophosphamide,0.347903978,HSCT,Single drug analysis,0.007346703,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Cyclophosphamide,-3.638600986,HSCT,Single drug analysis,0.001861709,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Cyclophosphamide,19.97227523,HSCT,Single drug analysis,0.007132718,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__casseliflavus,E. casseliflavus,Cyclophosphamide,-18.80378005,HSCT,Single drug analysis,0.009869412,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Cyclophosphamide,0.392864378,HSCT,Single drug analysis,0.00157775,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Cyclophosphamide,0.101403532,HSCT,Single drug analysis,0.028016357,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Cyclophosphamide,0.479940696,HSCT,Single drug analysis,3.34E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Cyclophosphamide,0.029818368,HSCT,Single drug analysis,0.006542618,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Cyclophosphamide,4.341985115,HSCT,Single drug analysis,0.008917041,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Cyclophosphamide,0.054008478,HSCT,Single drug analysis,0.008606779,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Coprobacillus.s__,g__Coprobacillus,Cyclophosphamide,-19.88123685,HSCT,Single drug analysis,3.78E-10,Inhibition
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Cyclophosphamide,2.492226818,HSCT,Single drug analysis,2.18E-06,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Fludarabine,0.052214089,HSCT,Single drug analysis,0.017482184,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Fludarabine,-6.423480451,HSCT,Single drug analysis,0.000717075,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Fludarabine,-0.934470331,HSCT,Single drug analysis,7.92E-06,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Fludarabine,-1.815283667,HSCT,Single drug analysis,8.30E-05,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Fludarabine,-1.328032181,HSCT,Single drug analysis,0.004779524,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Fludarabine,-0.366286731,HSCT,Single drug analysis,0.000917983,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__.s__,f__Rikenellaceae,Fludarabine,-0.18657706,HSCT,Single drug analysis,0.000145106,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Fludarabine,-3.495882551,HSCT,Single drug analysis,0.034264219,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__putredinis,A. putredinis,Fludarabine,-0.201830041,HSCT,Single drug analysis,0.009865212,Inhibition
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Fludarabine,-2.16753621,HSCT,Single drug analysis,0.035652806,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Fludarabine,-8.701838656,HSCT,Single drug analysis,0.034758027,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__casseliflavus,E. casseliflavus,Fludarabine,25.48434894,HSCT,Single drug analysis,1.03E-06,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Fludarabine,-0.128121782,HSCT,Single drug analysis,0.038252021,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Anaerofustis.s__,g__Anaerofustis,Fludarabine,0.133771406,HSCT,Single drug analysis,0.008299502,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Fludarabine,-0.418403359,HSCT,Single drug analysis,4.66E-07,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Subdoligranulum.s__variabile,S. variabile,Fludarabine,5.247244351,HSCT,Single drug analysis,0.000708078,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,Fludarabine,1.105701603,HSCT,Single drug analysis,0.009014792,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Coprobacillus.s__,g__Coprobacillus,Fludarabine,6.009116019,HSCT,Single drug analysis,0.014581491,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Fludarabine,-2.007315691,HSCT,Single drug analysis,1.57E-11,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Melphalan,2.185139707,HSCT,Single drug analysis,0.007562936,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Melphalan,3.900955466,HSCT,Single drug analysis,0.000299904,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Melphalan,5.158472149,HSCT,Single drug analysis,0.029620535,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Melphalan,5.905293943,HSCT,Single drug analysis,0.001208841,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Melphalan,-9.998436986,HSCT,Single drug analysis,0.012643461,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Melphalan,-12.2990529,HSCT,Single drug analysis,0.000197057,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__casseliflavus,E. casseliflavus,Melphalan,-48.0657383,HSCT,Single drug analysis,0.020607025,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__zeae,L. zeae,Melphalan,29.35335719,HSCT,Single drug analysis,0.010439316,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Melphalan,1.355531399,HSCT,Single drug analysis,0.000111584,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Melphalan,0.057175881,HSCT,Single drug analysis,0.016808373,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Anaerofustis.s__,g__Anaerofustis,Melphalan,-0.461260685,HSCT,Single drug analysis,0.018749541,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Melphalan,0.700863351,HSCT,Single drug analysis,0.036703725,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Melphalan,0.073963252,HSCT,Single drug analysis,0.01799921,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Melphalan,11.07833218,HSCT,Single drug analysis,0.01918965,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Melphalan,0.154426716,HSCT,Single drug analysis,0.008232749,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Melphalan,0.914913907,HSCT,Single drug analysis,0.035767455,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Coprobacillus.s__,g__Coprobacillus,Melphalan,-26.98173415,HSCT,Single drug analysis,0.00435449,Inhibition
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Melphalan,4.256214751,HSCT,Single drug analysis,0.005419834,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,VP16,-0.492952343,HSCT,Single drug analysis,8.10E-22,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,VP16,9.171130726,HSCT,Single drug analysis,0.034188293,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,VP16,-0.379615019,HSCT,Single drug analysis,4.85E-12,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,VP16,0.462038234,HSCT,Single drug analysis,0.027916254,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,VP16,-4.010474387,HSCT,Single drug analysis,3.74E-05,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,VP16,-15.34974305,HSCT,Single drug analysis,0.035026422,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Thiotepa,0.079814939,HSCT,Single drug analysis,0.000713173,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Thiotepa,4.224992664,HSCT,Single drug analysis,0.045173943,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,Thiotepa,-0.031984563,HSCT,Single drug analysis,0.022685581,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Thiotepa,-4.80226542,HSCT,Single drug analysis,0.016350819,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Thiotepa,-1.084974773,HSCT,Single drug analysis,9.76E-05,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Thiotepa,-2.001913043,HSCT,Single drug analysis,0.000997288,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Thiotepa,-1.284654605,HSCT,Single drug analysis,0.00679983,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Thiotepa,-0.485087489,HSCT,Single drug analysis,8.59E-06,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__.s__,f__Rikenellaceae,Thiotepa,-0.163328877,HSCT,Single drug analysis,0.001114855,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__putredinis,A. putredinis,Thiotepa,-0.304068796,HSCT,Single drug analysis,0.00138545,Inhibition
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Thiotepa,2.262233254,HSCT,Single drug analysis,0.029690032,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Thiotepa,-13.39314058,HSCT,Single drug analysis,0.014437361,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Thiotepa,0.125202154,HSCT,Single drug analysis,0.043476877,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Thiotepa,11.0434337,HSCT,Single drug analysis,0.000339515,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,Thiotepa,0.069521929,HSCT,Single drug analysis,0.037526608,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Thiotepa,-0.07511882,HSCT,Single drug analysis,0.027027637,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Thiotepa,-0.340177211,HSCT,Single drug analysis,6.70E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Thiotepa,-4.736305377,HSCT,Single drug analysis,0.021093729,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Thiotepa,-0.574844757,HSCT,Single drug analysis,0.003098025,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,Thiotepa,-5.75908308,HSCT,Single drug analysis,0.002922751,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__obeum,B. obeum,Thiotepa,-0.889779241,HSCT,Single drug analysis,0.011814403,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__clostridioforme,C. clostridioforme,Thiotepa,-0.505980691,HSCT,Single drug analysis,0.008639894,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Thiotepa,-0.016287052,HSCT,Single drug analysis,0.044733764,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Thiotepa,3.76965745,HSCT,Single drug analysis,0.000530613,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Thiotepa,-0.036626678,HSCT,Single drug analysis,0.015676548,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Thiotepa,-0.260559975,HSCT,Single drug analysis,0.020729843,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Thiotepa,0.967748098,HSCT,Single drug analysis,0.016468027,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Thiotepa,-1.920011895,HSCT,Single drug analysis,6.58E-07,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Thiotepa,6.56145969,HSCT,Single drug analysis,0.049973345,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Methotrexate,10.98215157,HSCT,Single drug analysis,0.041123919,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Methotrexate,12.64302426,HSCT,Single drug analysis,0.006003985,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Methotrexate,0.632736398,HSCT,Single drug analysis,0.004596044,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__aldenense,C. aldenense,Methotrexate,-0.148933377,HSCT,Single drug analysis,0.045466502,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Methotrexate,2.453334577,HSCT,Single drug analysis,0.047384702,Promotion
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Methotrexate,-2.292092756,HSCT,Single drug analysis,0.006291983,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Antibiotic,-3.361013614,HSCT,Single drug analysis,0.023084864,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Antibiotic,-0.179632235,HSCT,Single drug analysis,0.029175122,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Antibiotic,2.517571344,HSCT,Single drug analysis,0.033364011,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__putredinis,A. putredinis,Antibiotic,-0.281073958,HSCT,Single drug analysis,0.00028163,Inhibition
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Antibiotic,-2.743776957,HSCT,Single drug analysis,0.000102116,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Antibiotic,0.160951736,HSCT,Single drug analysis,0.000402209,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.__.__,f__Lachnospiraceae2,Antibiotic,-1.246471619,HSCT,Single drug analysis,0.035447128,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Antibiotic,-0.60810915,HSCT,Single drug analysis,6.52E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.s__,f__Lachnospiraceae1,Antibiotic,-1.428139299,HSCT,Single drug analysis,0.000394952,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__,g__Dorea,Antibiotic,-0.479493377,HSCT,Single drug analysis,0.010508523,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Antibiotic,-0.388708643,HSCT,Single drug analysis,0.020545152,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Antibiotic,-3.078531611,HSCT,Single drug analysis,2.68E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Antibiotic,-1.546389756,HSCT,Single drug analysis,0.022910737,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Antibiotic,-0.82164957,HSCT,Single drug analysis,0.034617758,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Antibiotic,-1.142279134,HSCT,Single drug analysis,0.010714531,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Antibiotic,4.746323088,HSCT,Single drug analysis,0.044688839,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Antibiotic,-0.647075067,HSCT,Single drug analysis,1.94E-06,Inhibition
+k__Bacteria.p__Fusobacteria.c__Fusobacteriia.o__Fusobacteriales.f__Fusobacteriaceae.g__Fusobacterium.s__,g__Fusobacterium,Antibiotic,-0.470679652,HSCT,Single drug analysis,0.000469027,Inhibition
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Eggerthella.s__lenta,E. lenta,Trimethoprim.sulfamethoxazole,-0.296755266,HSCT,Single drug analysis,0.048911445,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Trimethoprim.sulfamethoxazole,2.390679538,HSCT,Single drug analysis,0.040761588,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Trimethoprim.sulfamethoxazole,-1.978832157,HSCT,Single drug analysis,0.010572683,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Trimethoprim.sulfamethoxazole,-8.187174547,HSCT,Single drug analysis,0.007734174,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Trimethoprim.sulfamethoxazole,0.154349449,HSCT,Single drug analysis,0.001058487,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Trimethoprim.sulfamethoxazole,8.575945052,HSCT,Single drug analysis,0.007067801,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Tissierellaceae..g__Finegoldia.s__,g__Finegoldia,Trimethoprim.sulfamethoxazole,0.141667578,HSCT,Single drug analysis,0.042296733,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Anaerofustis.s__,g__Anaerofustis,Trimethoprim.sulfamethoxazole,0.007118965,HSCT,Single drug analysis,0.047379751,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Trimethoprim.sulfamethoxazole,3.651118447,HSCT,Single drug analysis,0.026700418,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Trimethoprim.sulfamethoxazole,-0.014990169,HSCT,Single drug analysis,0.015439005,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Trimethoprim.sulfamethoxazole,3.020099818,HSCT,Single drug analysis,0.000791497,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Trimethoprim.sulfamethoxazole,0.08725699,HSCT,Single drug analysis,0.037814216,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Trimethoprim.sulfamethoxazole,0.222231154,HSCT,Single drug analysis,0.01203362,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Trimethoprim.sulfamethoxazole,0.87242681,HSCT,Single drug analysis,0.035879723,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Trimethoprim.sulfamethoxazole,0.811433138,HSCT,Single drug analysis,0.004551508,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Trimethoprim.sulfamethoxazole,0.58113594,HSCT,Single drug analysis,0.035221343,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Phenoxymethylpenicillin,0.203381016,HSCT,Single drug analysis,2.34E-06,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Phenoxymethylpenicillin,-2.645046574,HSCT,Single drug analysis,0.000310208,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Phenoxymethylpenicillin,15.08911224,HSCT,Single drug analysis,0.031655061,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Phenoxymethylpenicillin,11.53575963,HSCT,Single drug analysis,0.001419609,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Phenoxymethylpenicillin,-1.497393127,HSCT,Single drug analysis,0.016674924,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Amoxicillin,0.521525222,HSCT,Single drug analysis,0.030924782,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Amoxicillin,-0.084163641,HSCT,Single drug analysis,0.040503669,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Amoxicillin,-0.084611294,HSCT,Single drug analysis,0.004800702,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,Amoxicillin,0.691187409,HSCT,Single drug analysis,2.00E-05,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Amoxicillin,-2.533436185,HSCT,Single drug analysis,0.019550295,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Amoxicillin,0.939024533,HSCT,Single drug analysis,0.03447547,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Amoxicillin,0.798386954,HSCT,Single drug analysis,0.038976318,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__.s__,f__Rikenellaceae,Amoxicillin,0.13744457,HSCT,Single drug analysis,1.52E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Amoxicillin,-5.861704772,HSCT,Single drug analysis,0.039742281,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Amoxicillin,1.759141722,HSCT,Single drug analysis,0.005822662,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Amoxicillin,0.107683262,HSCT,Single drug analysis,5.77E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Amoxicillin,0.286077381,HSCT,Single drug analysis,1.36E-08,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Amoxicillin,-0.450800533,HSCT,Single drug analysis,0.046734506,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Amoxicillin,-0.212295745,HSCT,Single drug analysis,0.033534208,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.__.__,f__Lachnospiraceae2,Amoxicillin,1.225249006,HSCT,Single drug analysis,0.003743733,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Amoxicillin,0.588355117,HSCT,Single drug analysis,1.32E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Amoxicillin,0.079333432,HSCT,Single drug analysis,4.36E-07,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Amoxicillin,0.666100846,HSCT,Single drug analysis,0.009871786,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__,g__Roseburia2,Amoxicillin,-1.228200779,HSCT,Single drug analysis,0.045112407,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Amoxicillin,-0.441038573,HSCT,Single drug analysis,0.033618955,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__Clostridium.s__bartlettii,C. bartlettii,Amoxicillin,-1.931062485,HSCT,Single drug analysis,0.001226817,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Amoxicillin,0.696255616,HSCT,Single drug analysis,0.00972088,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Amoxicillin,0.035445264,HSCT,Single drug analysis,0.001281741,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Amoxicillin,0.107922502,HSCT,Single drug analysis,2.62E-11,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Amoxicillin,0.856581962,HSCT,Single drug analysis,0.007473181,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Amoxicillin,-1.385139096,HSCT,Single drug analysis,0.009623311,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Phascolarctobacterium.s__,g__Phascolarctobacterium,Amoxicillin,-0.552379129,HSCT,Single drug analysis,0.000637865,Inhibition
+k__Bacteria.p__Fusobacteria.c__Fusobacteriia.o__Fusobacteriales.f__Fusobacteriaceae.g__Fusobacterium.s__,g__Fusobacterium,Amoxicillin,-0.217993822,HSCT,Single drug analysis,0.024570329,Inhibition
+k__Bacteria.p__Verrucomicrobia.c__Verrucomicrobiae.o__Verrucomicrobiales.f__Verrucomicrobiaceae.g__Akkermansia.s__muciniphila,A. muciniphila,Amoxicillin,4.933006671,HSCT,Single drug analysis,0.00047384,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Ceftazidime,0.035674994,HSCT,Single drug analysis,0.037269491,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Atopobium.s__,g__Atopobium,Ceftazidime,0.014506634,HSCT,Single drug analysis,0.045895427,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Ceftazidime,-1.790900879,HSCT,Single drug analysis,0.040690857,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Ceftazidime,-1.201068782,HSCT,Single drug analysis,0.002064749,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Ceftazidime,-0.842131991,HSCT,Single drug analysis,0.01339277,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__indistinctus,A. indistinctus,Ceftazidime,-0.005041757,HSCT,Single drug analysis,0.033828909,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Ceftazidime,2.250857509,HSCT,Single drug analysis,0.027806822,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Ceftazidime,-10.31683511,HSCT,Single drug analysis,0.000121529,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Ceftazidime,-8.467848314,HSCT,Single drug analysis,2.68E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__,g__Lactobacillus2,Ceftazidime,2.258301791,HSCT,Single drug analysis,0.015661113,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Ceftazidime,0.122410573,HSCT,Single drug analysis,0.007108299,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Ceftazidime,-0.467899637,HSCT,Single drug analysis,0.019096591,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Ceftazidime,2.374783355,HSCT,Single drug analysis,0.009027405,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__producta,B. producta,Ceftazidime,2.388978954,HSCT,Single drug analysis,0.012972268,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__aldenense,C. aldenense,Ceftazidime,-0.144474996,HSCT,Single drug analysis,0.002983813,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__clostridioforme,C. clostridioforme,Ceftazidime,0.326692147,HSCT,Single drug analysis,0.016400409,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Ceftazidime,0.034994285,HSCT,Single drug analysis,0.013070744,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Ceftazidime,0.525413209,HSCT,Single drug analysis,0.021184239,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Ceftazidime,0.513930437,HSCT,Single drug analysis,0.030791148,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Ceftazidime,0.019880614,HSCT,Single drug analysis,0.041769885,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Ceftazidime,0.597039648,HSCT,Single drug analysis,0.003093799,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Ceftazidime,0.037398293,HSCT,Single drug analysis,0.011448861,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.__,g__Faecalibacterium,Ceftazidime,0.253110258,HSCT,Single drug analysis,0.026166276,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Ceftazidime,-0.292153412,HSCT,Single drug analysis,0.00075608,Inhibition
+k__Bacteria.p__Fusobacteria.c__Fusobacteriia.o__Fusobacteriales.f__Fusobacteriaceae.g__Fusobacterium.s__,g__Fusobacterium,Ceftazidime,-0.253498273,HSCT,Single drug analysis,0.002934722,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Ceftazidime,4.887069199,HSCT,Single drug analysis,0.035837487,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Ceftriaxon,0.943957619,HSCT,Single drug analysis,4.95E-27,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Ceftriaxon,0.163015679,HSCT,Single drug analysis,5.63E-32,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Ceftriaxon,20.48322396,HSCT,Single drug analysis,3.09E-09,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Ceftriaxon,34.70869405,HSCT,Single drug analysis,0.000521092,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Ciprofloxacin,0.532146264,HSCT,Single drug analysis,0.010505998,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Ciprofloxacin,1.400476089,HSCT,Single drug analysis,0.001872284,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Ciprofloxacin,0.782058887,HSCT,Single drug analysis,0.049257875,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Ciprofloxacin,-0.22414857,HSCT,Single drug analysis,0.010959067,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,Ciprofloxacin,0.06564142,HSCT,Single drug analysis,0.004698557,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Ciprofloxacin,2.409827485,HSCT,Single drug analysis,0.044753277,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Ciprofloxacin,0.012936325,HSCT,Single drug analysis,0.033172901,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Ciprofloxacin,0.309083082,HSCT,Single drug analysis,0.00707556,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Ciprofloxacin,1.822445,HSCT,Single drug analysis,0.035519853,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Ciprofloxacin,0.021283257,HSCT,Single drug analysis,0.007078599,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Ciprofloxacin,0.040646926,HSCT,Single drug analysis,0.005731431,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Ciprofloxacin,0.892565876,HSCT,Single drug analysis,0.04802139,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Ciprofloxacin,0.245880802,HSCT,Single drug analysis,0.027630846,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Holdemania.s__,g__Holdemania,Ciprofloxacin,0.063984837,HSCT,Single drug analysis,0.046404019,Promotion
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Ciprofloxacin,12.49009504,HSCT,Single drug analysis,5.48E-06,Promotion
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.g__Shigella.__,g__Shigella,Ciprofloxacin,1.076147557,HSCT,Single drug analysis,0.024453148,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Meropenem,-3.373655708,HSCT,Single drug analysis,0.038244585,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Meropenem,0.184883776,HSCT,Single drug analysis,0.02684483,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Meropenem,12.60320565,HSCT,Single drug analysis,0.001234414,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__,g__Lactobacillus2,Meropenem,-0.097141564,HSCT,Single drug analysis,0.003117686,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Meropenem,7.404693869,HSCT,Single drug analysis,0.002167036,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Meropenem,-0.053817169,HSCT,Single drug analysis,0.04021173,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Meropenem,-4.104925354,HSCT,Single drug analysis,0.008052892,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Meropenem,-0.322499925,HSCT,Single drug analysis,0.034863003,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,Meropenem,-3.064809527,HSCT,Single drug analysis,0.044579208,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Meropenem,-2.539516042,HSCT,Single drug analysis,0.002945901,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Meropenem,-0.192230422,HSCT,Single drug analysis,0.048137999,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Meropenem,-0.907939187,HSCT,Single drug analysis,0.016083038,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Meropenem,-0.971924333,HSCT,Single drug analysis,0.012969128,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Meropenem,-1.281651396,HSCT,Single drug analysis,0.004346209,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Meropenem,-0.185898011,HSCT,Single drug analysis,0.033054436,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Meropenem,-0.652751462,HSCT,Single drug analysis,0.031752174,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Meropenem,-0.320078069,HSCT,Single drug analysis,0.03538566,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Piperacillin.tazobactam,0.415591108,HSCT,Single drug analysis,3.84E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Piperacillin.tazobactam,16.628886,HSCT,Single drug analysis,2.72E-17,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Piperacillin.tazobactam,3.197398705,HSCT,Single drug analysis,1.45E-17,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Piperacillin.tazobactam,4.780440716,HSCT,Single drug analysis,8.67E-85,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Piperacillin.tazobactam,1.731897572,HSCT,Single drug analysis,1.49E-05,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Vancomycin,0.041619131,HSCT,Single drug analysis,0.008268052,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Vancomycin,-0.295366825,HSCT,Single drug analysis,0.000742829,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Vancomycin,4.117811364,HSCT,Single drug analysis,0.015480918,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Vancomycin,-2.698941412,HSCT,Single drug analysis,0.000761367,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Vancomycin,-0.716626436,HSCT,Single drug analysis,0.022618988,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Vancomycin,2.952418059,HSCT,Single drug analysis,1.41E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Vancomycin,-8.851169105,HSCT,Single drug analysis,0.000359866,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.__,g__Lactobacillus1,Vancomycin,2.901893065,HSCT,Single drug analysis,0.039469697,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Vancomycin,-0.053137915,HSCT,Single drug analysis,0.046559386,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__zeae,L. zeae,Vancomycin,3.153389257,HSCT,Single drug analysis,0.009232769,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Vancomycin,-1.947728651,HSCT,Single drug analysis,0.02041345,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.__,g__Clostridium,Vancomycin,-0.450088502,HSCT,Single drug analysis,0.039008659,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__aldenense,C. aldenense,Vancomycin,-0.147200425,HSCT,Single drug analysis,0.001015423,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__symbiosum,C. symbiosum,Vancomycin,-0.207956319,HSCT,Single drug analysis,0.013234082,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__,g__Dorea,Vancomycin,-0.275457273,HSCT,Single drug analysis,0.011610403,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Vancomycin,0.433446549,HSCT,Single drug analysis,0.039465568,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Vancomycin,0.399250744,HSCT,Single drug analysis,0.032644502,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Vancomycin,-0.730007237,HSCT,Single drug analysis,0.001187537,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Vancomycin,-0.60311891,HSCT,Single drug analysis,0.020816029,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Vancomycin,-0.090422128,HSCT,Single drug analysis,0.042105947,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Tobramycin,43.27802138,HSCT,Single drug analysis,1.69E-06,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Tobramycin,-31.05645701,HSCT,Single drug analysis,0.000167286,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Busulfan,0.439853719,HSCT,Multiple drug analysis,4.35E-19,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Busulfan,-1.463239721,HSCT,Multiple drug analysis,0.02238928,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,Busulfan,0.328752991,HSCT,Multiple drug analysis,3.72E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Busulfan,-0.038718319,HSCT,Multiple drug analysis,0.025961298,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Busulfan,3.57102484,HSCT,Multiple drug analysis,8.66E-05,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Busulfan,-2.02731605,HSCT,Multiple drug analysis,0.011323754,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Busulfan,13.70696843,HSCT,Multiple drug analysis,0.045372473,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Cyclophosphamide,26.35410556,HSCT,Multiple drug analysis,0.006326156,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Cyclophosphamide,1.525897877,HSCT,Multiple drug analysis,0.003931985,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__.s__,f__Rikenellaceae,Cyclophosphamide,0.577440898,HSCT,Multiple drug analysis,0.009301239,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Cyclophosphamide,20.05754116,HSCT,Multiple drug analysis,0.016616801,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Cyclophosphamide,-3.194761693,HSCT,Multiple drug analysis,0.015962961,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Cyclophosphamide,0.348897701,HSCT,Multiple drug analysis,0.031293286,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Cyclophosphamide,1.281041335,HSCT,Multiple drug analysis,0.025991278,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Cyclophosphamide,1.561573465,HSCT,Multiple drug analysis,9.38E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,Cyclophosphamide,24.29784161,HSCT,Multiple drug analysis,0.011963189,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Cyclophosphamide,-0.075682699,HSCT,Multiple drug analysis,0.035852691,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Cyclophosphamide,11.99487574,HSCT,Multiple drug analysis,0.034016975,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Fludarabine,0.409071082,HSCT,Multiple drug analysis,2.27E-17,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Fludarabine,-11.00278727,HSCT,Multiple drug analysis,0.020260296,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Fludarabine,-13.77300887,HSCT,Multiple drug analysis,0.000923992,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,Fludarabine,0.331955455,HSCT,Multiple drug analysis,6.85E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Fludarabine,-3.349824013,HSCT,Multiple drug analysis,0.020373852,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Fludarabine,-0.642270927,HSCT,Multiple drug analysis,0.02452998,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Fludarabine,-0.594788463,HSCT,Multiple drug analysis,0.003494481,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Fludarabine,3.479994197,HSCT,Multiple drug analysis,0.000278895,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Fludarabine,18.39805859,HSCT,Multiple drug analysis,0.017950555,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,VP16,-0.492530356,HSCT,Multiple drug analysis,1.16E-21,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,VP16,9.249096615,HSCT,Multiple drug analysis,0.032680935,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,VP16,-0.37973327,HSCT,Multiple drug analysis,5.89E-12,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,VP16,0.459912842,HSCT,Multiple drug analysis,0.029095602,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,VP16,-4.035448485,HSCT,Multiple drug analysis,3.07E-05,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,VP16,-15.36761561,HSCT,Multiple drug analysis,0.035598527,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Thiotepa,0.154204979,HSCT,Multiple drug analysis,3.30E-06,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Thiotepa,6.529914229,HSCT,Multiple drug analysis,0.02833841,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Thiotepa,-0.429793869,HSCT,Multiple drug analysis,0.005121813,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Thiotepa,-13.82370734,HSCT,Multiple drug analysis,0.04689339,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Thiotepa,18.27436461,HSCT,Multiple drug analysis,3.22E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,Thiotepa,0.121135149,HSCT,Multiple drug analysis,0.000265497,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Anaerofustis.s__,g__Anaerofustis,Thiotepa,0.017443887,HSCT,Multiple drug analysis,0.005066045,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Thiotepa,-0.238796283,HSCT,Multiple drug analysis,0.044093038,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Thiotepa,-0.751585705,HSCT,Multiple drug analysis,0.00500371,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,Thiotepa,-8.173900992,HSCT,Multiple drug analysis,0.003382114,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__obeum,B. obeum,Thiotepa,-1.485107329,HSCT,Multiple drug analysis,0.003588234,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__clostridioforme,C. clostridioforme,Thiotepa,-0.781391093,HSCT,Multiple drug analysis,0.004980891,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Thiotepa,5.859911211,HSCT,Multiple drug analysis,0.000160371,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Thiotepa,0.343350281,HSCT,Multiple drug analysis,0.026632019,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Thiotepa,-1.960377167,HSCT,Multiple drug analysis,0.00440084,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Thiotepa,1.446050858,HSCT,Multiple drug analysis,0.009327894,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Thiotepa,-0.976994323,HSCT,Multiple drug analysis,0.043118167,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Methotrexate,12.23746923,HSCT,Multiple drug analysis,0.0084882,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Methotrexate,0.663684685,HSCT,Multiple drug analysis,0.00325964,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Methotrexate,2.49584701,HSCT,Multiple drug analysis,0.046515594,Promotion
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Methotrexate,-2.296295497,HSCT,Multiple drug analysis,0.006904034,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Trimethoprim.sulfamethoxazole,-0.521844476,HSCT,Multiple drug analysis,0.024814072,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Trimethoprim.sulfamethoxazole,-10.99861493,HSCT,Multiple drug analysis,0.008444795,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Trimethoprim.sulfamethoxazole,-10.20353831,HSCT,Multiple drug analysis,0.001496963,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Trimethoprim.sulfamethoxazole,0.123936197,HSCT,Multiple drug analysis,0.010678827,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Trimethoprim.sulfamethoxazole,7.824118004,HSCT,Multiple drug analysis,0.019345071,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Trimethoprim.sulfamethoxazole,1.076613324,HSCT,Multiple drug analysis,0.033835912,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Tissierellaceae..g__Finegoldia.s__,g__Finegoldia,Trimethoprim.sulfamethoxazole,0.152482465,HSCT,Multiple drug analysis,0.038552197,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Eubacteriaceae.g__Anaerofustis.s__,g__Anaerofustis,Trimethoprim.sulfamethoxazole,0.008486472,HSCT,Multiple drug analysis,0.02483941,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Trimethoprim.sulfamethoxazole,4.179670014,HSCT,Multiple drug analysis,0.016168113,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Trimethoprim.sulfamethoxazole,3.777535062,HSCT,Multiple drug analysis,5.22E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Trimethoprim.sulfamethoxazole,0.270271529,HSCT,Multiple drug analysis,0.003612266,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Trimethoprim.sulfamethoxazole,1.257581154,HSCT,Multiple drug analysis,0.003312235,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Trimethoprim.sulfamethoxazole,0.73464866,HSCT,Multiple drug analysis,0.014378246,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Trimethoprim.sulfamethoxazole,0.621512318,HSCT,Multiple drug analysis,0.033017236,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Phenoxymethylpenicillin,0.20321746,HSCT,Multiple drug analysis,2.56E-06,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Phenoxymethylpenicillin,-2.657011236,HSCT,Multiple drug analysis,0.000227163,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Phenoxymethylpenicillin,15.03615871,HSCT,Multiple drug analysis,0.032182061,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Phenoxymethylpenicillin,11.52199262,HSCT,Multiple drug analysis,0.001486754,Promotion
+k__Bacteria.p__Proteobacteria.c__Betaproteobacteria.o__Burkholderiales.f__Alcaligenaceae.g__Sutterella.s__,g__Sutterella,Phenoxymethylpenicillin,-1.498527369,HSCT,Multiple drug analysis,0.017028311,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Amoxicillin,0.548792102,HSCT,Multiple drug analysis,0.023713717,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Amoxicillin,-0.087550208,HSCT,Multiple drug analysis,0.034000672,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Amoxicillin,-0.085878634,HSCT,Multiple drug analysis,0.004441099,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,Amoxicillin,0.702709375,HSCT,Multiple drug analysis,1.62E-05,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Amoxicillin,-2.459963808,HSCT,Multiple drug analysis,0.024079877,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Amoxicillin,0.908697019,HSCT,Multiple drug analysis,0.041756256,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Amoxicillin,0.808347977,HSCT,Multiple drug analysis,0.037780895,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__.s__,f__Rikenellaceae,Amoxicillin,0.14345629,HSCT,Multiple drug analysis,6.34E-06,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Amoxicillin,-6.271357121,HSCT,Multiple drug analysis,0.041579628,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Amoxicillin,-5.943558219,HSCT,Multiple drug analysis,0.038242831,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Amoxicillin,1.848021846,HSCT,Multiple drug analysis,0.00386855,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Amoxicillin,0.111417118,HSCT,Multiple drug analysis,3.35E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Amoxicillin,0.279913658,HSCT,Multiple drug analysis,2.91E-08,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Amoxicillin,-0.222407621,HSCT,Multiple drug analysis,0.026631847,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.__.__,f__Lachnospiraceae2,Amoxicillin,1.320585751,HSCT,Multiple drug analysis,0.001718081,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Amoxicillin,0.590952622,HSCT,Multiple drug analysis,1.42E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Amoxicillin,0.07871331,HSCT,Multiple drug analysis,6.16E-07,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Amoxicillin,1.25033975,HSCT,Multiple drug analysis,0.042351306,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Amoxicillin,0.632501167,HSCT,Multiple drug analysis,0.014480125,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__,g__Roseburia2,Amoxicillin,-1.252671323,HSCT,Multiple drug analysis,0.042241107,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Amoxicillin,-0.461449594,HSCT,Multiple drug analysis,0.026917839,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__Clostridium.s__bartlettii,C. bartlettii,Amoxicillin,-1.983576558,HSCT,Multiple drug analysis,0.00095467,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Amoxicillin,0.725492521,HSCT,Multiple drug analysis,0.007303667,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Amoxicillin,0.03577091,HSCT,Multiple drug analysis,0.001240012,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Amoxicillin,0.106360076,HSCT,Multiple drug analysis,5.71E-11,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Amoxicillin,0.941584973,HSCT,Multiple drug analysis,0.003051891,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Amoxicillin,-1.433008507,HSCT,Multiple drug analysis,0.007693547,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Phascolarctobacterium.s__,g__Phascolarctobacterium,Amoxicillin,-0.560729588,HSCT,Multiple drug analysis,0.000568994,Inhibition
+k__Bacteria.p__Fusobacteria.c__Fusobacteriia.o__Fusobacteriales.f__Fusobacteriaceae.g__Fusobacterium.s__,g__Fusobacterium,Amoxicillin,-0.188038659,HSCT,Multiple drug analysis,0.04888404,Inhibition
+k__Bacteria.p__Verrucomicrobia.c__Verrucomicrobiae.o__Verrucomicrobiales.f__Verrucomicrobiaceae.g__Akkermansia.s__muciniphila,A. muciniphila,Amoxicillin,4.986430068,HSCT,Multiple drug analysis,0.000445849,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Atopobium.s__,g__Atopobium,Ceftazidime,0.015088837,HSCT,Multiple drug analysis,0.044531723,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Ceftazidime,-1.867520522,HSCT,Multiple drug analysis,0.038927142,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Ceftazidime,-1.372958701,HSCT,Multiple drug analysis,0.000627585,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Ceftazidime,-0.889445399,HSCT,Multiple drug analysis,0.011481387,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__indistinctus,A. indistinctus,Ceftazidime,-0.005376782,HSCT,Multiple drug analysis,0.028524477,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Ceftazidime,2.263474747,HSCT,Multiple drug analysis,0.032296518,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Ceftazidime,-12.15478435,HSCT,Multiple drug analysis,9.76E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Ceftazidime,-9.422879313,HSCT,Multiple drug analysis,3.82E-07,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__,g__Lactobacillus2,Ceftazidime,2.347380158,HSCT,Multiple drug analysis,0.01507312,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Ceftazidime,0.109053192,HSCT,Multiple drug analysis,0.019821278,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Ceftazidime,-0.478582022,HSCT,Multiple drug analysis,0.020372502,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Ceftazidime,2.644862848,HSCT,Multiple drug analysis,0.004840452,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__producta,B. producta,Ceftazidime,2.55582564,HSCT,Multiple drug analysis,0.010094935,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__aldenense,C. aldenense,Ceftazidime,-0.150818665,HSCT,Multiple drug analysis,0.002702851,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__clostridioforme,C. clostridioforme,Ceftazidime,0.317677622,HSCT,Multiple drug analysis,0.023868213,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Ceftazidime,0.034017135,HSCT,Multiple drug analysis,0.019504945,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Ceftazidime,0.46282033,HSCT,Multiple drug analysis,0.048730787,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Ceftazidime,0.603372155,HSCT,Multiple drug analysis,0.013895246,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Ceftazidime,0.021189545,HSCT,Multiple drug analysis,0.035757502,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Ceftazidime,0.606633096,HSCT,Multiple drug analysis,0.003628956,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Ceftazidime,0.033655431,HSCT,Multiple drug analysis,0.02719394,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.__,g__Faecalibacterium,Ceftazidime,0.230516023,HSCT,Multiple drug analysis,0.049590625,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Ceftazidime,0.62504151,HSCT,Multiple drug analysis,0.01286275,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Ceftazidime,-0.203947012,HSCT,Multiple drug analysis,0.018233393,Inhibition
+k__Bacteria.p__Fusobacteria.c__Fusobacteriia.o__Fusobacteriales.f__Fusobacteriaceae.g__Fusobacterium.s__,g__Fusobacterium,Ceftazidime,-0.191981228,HSCT,Multiple drug analysis,0.026299943,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Ceftazidime,5.123736259,HSCT,Multiple drug analysis,0.033250729,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Ceftriaxon,0.944815129,HSCT,Multiple drug analysis,1.62E-26,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Ceftriaxon,0.163192836,HSCT,Multiple drug analysis,2.13E-31,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Ceftriaxon,20.64757788,HSCT,Multiple drug analysis,2.94E-09,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Ceftriaxon,33.79209828,HSCT,Multiple drug analysis,0.000584176,Promotion
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Ciprofloxacin,0.419508824,HSCT,Multiple drug analysis,0.043705872,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Ciprofloxacin,0.538382396,HSCT,Multiple drug analysis,0.010246247,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Ciprofloxacin,1.445167196,HSCT,Multiple drug analysis,0.001404871,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Ciprofloxacin,-0.228757345,HSCT,Multiple drug analysis,0.009976383,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Turicibacterales.f__Turicibacteraceae.g__Turicibacter.s__,g__Turicibacter,Ciprofloxacin,0.066218359,HSCT,Multiple drug analysis,0.004681673,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Ciprofloxacin,2.554232999,HSCT,Multiple drug analysis,0.033825122,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Ciprofloxacin,0.013638207,HSCT,Multiple drug analysis,0.025158904,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Ciprofloxacin,0.310374898,HSCT,Multiple drug analysis,0.007322363,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Ciprofloxacin,1.881750484,HSCT,Multiple drug analysis,0.031067476,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Ciprofloxacin,0.021828815,HSCT,Multiple drug analysis,0.006080929,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Ciprofloxacin,0.043078983,HSCT,Multiple drug analysis,0.003311605,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Ciprofloxacin,0.899549889,HSCT,Multiple drug analysis,0.048165198,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Ciprofloxacin,0.251659142,HSCT,Multiple drug analysis,0.025271953,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Holdemania.s__,g__Holdemania,Ciprofloxacin,0.068121109,HSCT,Multiple drug analysis,0.034222324,Promotion
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Ciprofloxacin,12.62586495,HSCT,Multiple drug analysis,5.14E-06,Promotion
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.g__Shigella.__,g__Shigella,Ciprofloxacin,1.060918137,HSCT,Multiple drug analysis,0.027718555,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Meropenem,0.220101798,HSCT,Multiple drug analysis,0.026333449,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Meropenem,-3.305645804,HSCT,Multiple drug analysis,0.011178715,Inhibition
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Meropenem,2.029805128,HSCT,Multiple drug analysis,0.016201597,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Meropenem,9.385630797,HSCT,Multiple drug analysis,0.001023462,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Tissierellaceae..g__Finegoldia.s__,g__Finegoldia,Meropenem,-0.171530063,HSCT,Multiple drug analysis,0.028214658,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Meropenem,-5.474097186,HSCT,Multiple drug analysis,0.002826864,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__producta,B. producta,Meropenem,-4.326892701,HSCT,Multiple drug analysis,0.03577674,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Meropenem,-2.673393777,HSCT,Multiple drug analysis,0.008187642,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.__,g__Faecalibacterium,Meropenem,-0.058143017,HSCT,Multiple drug analysis,0.049107803,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Meropenem,0.543054975,HSCT,Multiple drug analysis,0.049656921,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Meropenem,-0.873095073,HSCT,Multiple drug analysis,0.00598703,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Meropenem,-0.237471103,HSCT,Multiple drug analysis,0.021695147,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Piperacillin.tazobactam,0.415529169,HSCT,Multiple drug analysis,4.55E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Piperacillin.tazobactam,16.65387979,HSCT,Multiple drug analysis,1.32E-17,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Piperacillin.tazobactam,3.201080289,HSCT,Multiple drug analysis,1.05E-17,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Piperacillin.tazobactam,4.78028393,HSCT,Multiple drug analysis,4.19E-84,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Piperacillin.tazobactam,1.734371072,HSCT,Multiple drug analysis,1.49E-05,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Vancomycin,0.042724279,HSCT,Multiple drug analysis,0.011185647,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Vancomycin,-0.340165952,HSCT,Multiple drug analysis,0.000272815,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Vancomycin,5.050143523,HSCT,Multiple drug analysis,0.005382949,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Vancomycin,-3.019673726,HSCT,Multiple drug analysis,0.000421055,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Vancomycin,-0.895574815,HSCT,Multiple drug analysis,0.020121269,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Vancomycin,-0.806438921,HSCT,Multiple drug analysis,0.016363822,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Vancomycin,2.779497409,HSCT,Multiple drug analysis,0.000122271,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Vancomycin,-1.421146489,HSCT,Multiple drug analysis,0.02084891,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Vancomycin,-11.72392055,HSCT,Multiple drug analysis,7.72E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Vancomycin,-4.246234724,HSCT,Multiple drug analysis,0.018597987,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.__,g__Lactobacillus1,Vancomycin,3.105338708,HSCT,Multiple drug analysis,0.039262427,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Vancomycin,-0.097822041,HSCT,Multiple drug analysis,0.000405754,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__zeae,L. zeae,Vancomycin,3.55779327,HSCT,Multiple drug analysis,0.005977339,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__gnavus,R. gnavus,Vancomycin,-2.05478864,HSCT,Multiple drug analysis,0.022112474,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.__,g__Clostridium,Vancomycin,-0.575097801,HSCT,Multiple drug analysis,0.013388029,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__aldenense,C. aldenense,Vancomycin,-0.163497025,HSCT,Multiple drug analysis,0.00063343,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__symbiosum,C. symbiosum,Vancomycin,-0.22201406,HSCT,Multiple drug analysis,0.013342728,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Vancomycin,0.414251147,HSCT,Multiple drug analysis,0.038099902,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Vancomycin,-0.641100629,HSCT,Multiple drug analysis,0.007434768,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Vancomycin,-0.098476662,HSCT,Multiple drug analysis,0.038384323,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__finegoldii,A. finegoldii,Tobramycin,45.05781988,HSCT,Multiple drug analysis,1.21E-06,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Tobramycin,-33.00362399,HSCT,Multiple drug analysis,9.41E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Tobramycin,1.018484854,HSCT,Multiple drug analysis,0.032983267,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Tobramycin,0.974656238,HSCT,Multiple drug analysis,0.028812971,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__,g__Bifidobacterium2,ATG,-2.021590846,GVHD,Single drug analysis,0.02463212,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,ATG,2.850754421,GVHD,Single drug analysis,2.69E-15,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,ATG,0.289411617,GVHD,Single drug analysis,0.041845441,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,ATG,5.758850076,GVHD,Single drug analysis,3.89E-06,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Busulfan,0.874539883,GVHD,Single drug analysis,0.04726418,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Busulfan,1.611929842,GVHD,Single drug analysis,0.005786782,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Busulfan,3.909107859,GVHD,Single drug analysis,0.014250409,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Busulfan,17.10245466,GVHD,Single drug analysis,0.013819545,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Busulfan,-6.214668697,GVHD,Single drug analysis,0.034937218,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Busulfan,-0.659909545,GVHD,Single drug analysis,0.005339836,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__symbiosum,C. symbiosum,Busulfan,-0.226370531,GVHD,Single drug analysis,0.026969524,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Megasphaera.s__,g__Megasphaera,Busulfan,-5.366773597,GVHD,Single drug analysis,0.04834947,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Busulfan,-8.766360959,GVHD,Single drug analysis,0.00562525,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Busulfan,13.11453488,GVHD,Single drug analysis,0.000177875,Promotion
+Unassigned.__.__.__.__.__.__,Unassigned,Busulfan,0.12805503,GVHD,Single drug analysis,0.019461983,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__,g__Bifidobacterium2,Cyclophosphamide,0.433737872,GVHD,Single drug analysis,0.031004983,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Cyclophosphamide,-0.195961926,GVHD,Single drug analysis,0.02574131,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Cyclophosphamide,13.33346428,GVHD,Single drug analysis,0.031429968,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Cyclophosphamide,-6.60011919,GVHD,Single drug analysis,0.011682203,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Cyclophosphamide,0.41785243,GVHD,Single drug analysis,0.000779268,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__salivarius,L. salivarius,Cyclophosphamide,-1.629840216,GVHD,Single drug analysis,0.044997873,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__zeae,L. zeae,Cyclophosphamide,-10.50126261,GVHD,Single drug analysis,0.020768082,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Cyclophosphamide,-2.68452684,GVHD,Single drug analysis,0.026352487,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Cyclophosphamide,1.822684493,GVHD,Single drug analysis,0.032492662,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Cyclophosphamide,-7.042444425,GVHD,Single drug analysis,0.012651612,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Cyclophosphamide,-7.285601979,GVHD,Single drug analysis,0.020724046,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Fludarabine,-3.31880266,GVHD,Single drug analysis,0.011658834,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Fludarabine,-0.004184951,GVHD,Single drug analysis,0.005650502,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Fludarabine,-12.16704566,GVHD,Single drug analysis,0.02260734,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Fludarabine,-11.50536142,GVHD,Single drug analysis,0.000320435,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Fludarabine,0.499742502,GVHD,Single drug analysis,0.001116644,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Fludarabine,23.54274348,GVHD,Single drug analysis,0.00102933,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__,g__Clostridium2,Fludarabine,-2.707194028,GVHD,Single drug analysis,0.022466456,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Fludarabine,-1.278037593,GVHD,Single drug analysis,0.024404532,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Fludarabine,6.033145703,GVHD,Single drug analysis,0.020882092,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Fludarabine,-0.735379672,GVHD,Single drug analysis,0.023395613,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Fludarabine,-11.02922531,GVHD,Single drug analysis,0.001443595,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Fludarabine,18.36142542,GVHD,Single drug analysis,1.29E-06,Promotion
+Unassigned.__.__.__.__.__.__,Unassigned,Fludarabine,0.228454525,GVHD,Single drug analysis,0.000120366,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Melphalan,32.80678809,GVHD,Single drug analysis,0.001046103,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__zeae,L. zeae,Melphalan,-19.2168903,GVHD,Single drug analysis,0.009206836,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Melphalan,-3.913196833,GVHD,Single drug analysis,0.046975422,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Melphalan,-1.72050789,GVHD,Single drug analysis,0.047071157,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Acidaminococcus.s__,g__Acidaminococcus,Melphalan,0.050439918,GVHD,Single drug analysis,0.025758138,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Melphalan,-11.34253354,GVHD,Single drug analysis,0.01363093,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,VP16,3.140249528,GVHD,Single drug analysis,0.026370245,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,VP16,-0.008052324,GVHD,Single drug analysis,0.00304176,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,VP16,-52.04160325,GVHD,Single drug analysis,0.000219261,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,VP16,20.82745115,GVHD,Single drug analysis,0.001103214,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,VP16,-0.671751582,GVHD,Single drug analysis,0.023511319,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,VP16,0.772462803,GVHD,Single drug analysis,0.014068095,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__,g__Streptococcus2,VP16,5.130726183,GVHD,Single drug analysis,0.018006449,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,VP16,-7.114462867,GVHD,Single drug analysis,0.047036295,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,VP16,-2.117888984,GVHD,Single drug analysis,0.049663801,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,VP16,-10.7200509,GVHD,Single drug analysis,0.043756985,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,VP16,16.48705235,GVHD,Single drug analysis,0.018649104,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,VP16,4.124521551,GVHD,Single drug analysis,0.019251804,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Thiotepa,-0.426737352,GVHD,Single drug analysis,5.09E-05,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Thiotepa,-0.051399443,GVHD,Single drug analysis,0.000487574,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__,g__Bifidobacterium2,Thiotepa,-1.050453934,GVHD,Single drug analysis,7.57E-06,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Thiotepa,-4.710404518,GVHD,Single drug analysis,0.014751709,Inhibition
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Thiotepa,-1.16645564,GVHD,Single drug analysis,0.011262392,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__zeae,L. zeae,Thiotepa,14.7574223,GVHD,Single drug analysis,0.00617277,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Thiotepa,-0.147248347,GVHD,Single drug analysis,0.001569715,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Thiotepa,-0.060730495,GVHD,Single drug analysis,0.004999962,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Thiotepa,-0.004962285,GVHD,Single drug analysis,0.00100904,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Thiotepa,-0.014889412,GVHD,Single drug analysis,0.006503095,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Thiotepa,-0.158204299,GVHD,Single drug analysis,0.002773547,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Thiotepa,-1.450272916,GVHD,Single drug analysis,0.035234489,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Thiotepa,-4.12335209,GVHD,Single drug analysis,3.62E-05,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Thiotepa,9.662720376,GVHD,Single drug analysis,0.009805131,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Methotrexate,-55.83056743,GVHD,Single drug analysis,0.023785612,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Methotrexate,1.192884439,GVHD,Single drug analysis,0.019843956,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Methotrexate,70.98288825,GVHD,Single drug analysis,0.000818345,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Methotrexate,0.40944262,GVHD,Single drug analysis,0.025408863,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Methotrexate,-1.843013083,GVHD,Single drug analysis,0.041925346,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Carnobacteriaceae.g__Granulicatella.s__,g__Granulicatella,Antibiotic,-0.013924017,GVHD,Single drug analysis,0.024138103,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Antibiotic,0.202463705,GVHD,Single drug analysis,0.009127169,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Antibiotic,-0.27783832,GVHD,Single drug analysis,0.007434339,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Tissierellaceae..g__Anaerococcus.s__,g__Anaerococcus,Antibiotic,-0.007730087,GVHD,Single drug analysis,0.034767477,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.__,g__Clostridium1,Antibiotic,-0.806886756,GVHD,Single drug analysis,0.01380161,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Antibiotic,-0.750038655,GVHD,Single drug analysis,0.010155509,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__,g__Dorea,Antibiotic,-0.305392335,GVHD,Single drug analysis,0.000394203,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__,g__Roseburia2,Antibiotic,-0.280218782,GVHD,Single drug analysis,0.009770044,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.g__.s__,f__Peptostreptococcaceae1,Antibiotic,-0.261283025,GVHD,Single drug analysis,0.018704384,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Antibiotic,-1.471665212,GVHD,Single drug analysis,0.040671795,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Antibiotic,-0.392777189,GVHD,Single drug analysis,0.017135212,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Antibiotic,-0.594093768,GVHD,Single drug analysis,0.02416378,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,Antibiotic,-1.581723869,GVHD,Single drug analysis,0.000567867,Inhibition
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Antibiotic,-0.39562018,GVHD,Single drug analysis,0.003432468,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Trimethoprim.sulfamethoxazole,0.347458345,GVHD,Single drug analysis,0.041492985,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Collinsella.s__aerofaciens,C. aerofaciens,Trimethoprim.sulfamethoxazole,0.122883807,GVHD,Single drug analysis,0.013354989,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,Trimethoprim.sulfamethoxazole,0.064562394,GVHD,Single drug analysis,0.039700616,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Trimethoprim.sulfamethoxazole,1.003954978,GVHD,Single drug analysis,0.031927862,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Trimethoprim.sulfamethoxazole,1.537821869,GVHD,Single drug analysis,0.000846369,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Trimethoprim.sulfamethoxazole,-0.776482509,GVHD,Single drug analysis,0.044602366,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Trimethoprim.sulfamethoxazole,-2.818916546,GVHD,Single drug analysis,0.015279818,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__salivarius,L. salivarius,Trimethoprim.sulfamethoxazole,2.756150049,GVHD,Single drug analysis,0.000226837,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__producta,B. producta,Trimethoprim.sulfamethoxazole,6.353219904,GVHD,Single drug analysis,0.000570289,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Trimethoprim.sulfamethoxazole,-1.131894872,GVHD,Single drug analysis,0.008159273,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Trimethoprim.sulfamethoxazole,-1.359085622,GVHD,Single drug analysis,0.014250107,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Trimethoprim.sulfamethoxazole,1.661625308,GVHD,Single drug analysis,0.006011165,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Trimethoprim.sulfamethoxazole,0.067120048,GVHD,Single drug analysis,0.044847515,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Trimethoprim.sulfamethoxazole,0.012902778,GVHD,Single drug analysis,0.000452118,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Trimethoprim.sulfamethoxazole,-0.441671171,GVHD,Single drug analysis,0.034566232,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Phenoxymethylpenicillin,0.468862795,GVHD,Single drug analysis,0.002755563,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Phenoxymethylpenicillin,0.007568672,GVHD,Single drug analysis,7.47E-05,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Phenoxymethylpenicillin,5.676109664,GVHD,Single drug analysis,0.000624136,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Phenoxymethylpenicillin,1.639630862,GVHD,Single drug analysis,0.049097357,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Phenoxymethylpenicillin,0.980793183,GVHD,Single drug analysis,0.000673756,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Phenoxymethylpenicillin,-0.225854878,GVHD,Single drug analysis,0.019733471,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Phenoxymethylpenicillin,0.803794086,GVHD,Single drug analysis,0.003617091,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Tissierellaceae..g__Finegoldia.s__,g__Finegoldia,Phenoxymethylpenicillin,0.034376235,GVHD,Single drug analysis,0.00288012,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Phenoxymethylpenicillin,0.278819755,GVHD,Single drug analysis,0.015045061,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Phenoxymethylpenicillin,0.263768946,GVHD,Single drug analysis,0.000397977,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Phenoxymethylpenicillin,-0.263676286,GVHD,Single drug analysis,0.015397347,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Phenoxymethylpenicillin,-0.005454263,GVHD,Single drug analysis,0.016712667,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Phenoxymethylpenicillin,3.036985083,GVHD,Single drug analysis,0.000829702,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Phenoxymethylpenicillin,1.83645275,GVHD,Single drug analysis,0.000227592,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Phenoxymethylpenicillin,2.713109697,GVHD,Single drug analysis,0.006489808,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Phenoxymethylpenicillin,1.47592478,GVHD,Single drug analysis,0.000648462,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Phenoxymethylpenicillin,-3.210581639,GVHD,Single drug analysis,0.02497323,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Phenoxymethylpenicillin,0.227028127,GVHD,Single drug analysis,9.62E-06,Promotion
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Phenoxymethylpenicillin,1.490694806,GVHD,Single drug analysis,1.12E-05,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__dentocariosa,R. dentocariosa,Amoxicillin,0.338022469,GVHD,Single drug analysis,5.80E-08,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Amoxicillin,-0.043130483,GVHD,Single drug analysis,0.038798983,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__,g__Bifidobacterium2,Amoxicillin,-0.668383647,GVHD,Single drug analysis,0.043418985,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Amoxicillin,2.675357794,GVHD,Single drug analysis,2.95E-08,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Atopobium.s__,g__Atopobium,Amoxicillin,0.149391185,GVHD,Single drug analysis,0.003167023,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Amoxicillin,0.320697957,GVHD,Single drug analysis,0.031917967,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Amoxicillin,-20.63160446,GVHD,Single drug analysis,7.83E-09,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Amoxicillin,2.32837407,GVHD,Single drug analysis,0.032296377,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Carnobacteriaceae.g__Granulicatella.s__,g__Granulicatella,Amoxicillin,-0.037700439,GVHD,Single drug analysis,0.014280763,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Amoxicillin,1.288836488,GVHD,Single drug analysis,0.019164221,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Amoxicillin,-0.73504228,GVHD,Single drug analysis,0.004485837,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Amoxicillin,-0.604362826,GVHD,Single drug analysis,0.018551253,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Amoxicillin,-0.182939164,GVHD,Single drug analysis,0.010160874,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Amoxicillin,0.537250532,GVHD,Single drug analysis,0.000370161,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Amoxicillin,0.230432601,GVHD,Single drug analysis,0.023602584,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,Amoxicillin,5.177869224,GVHD,Single drug analysis,0.047652301,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Amoxicillin,-2.569208538,GVHD,Single drug analysis,0.000377431,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__longicatena,D. longicatena,Amoxicillin,0.177671461,GVHD,Single drug analysis,0.016541906,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Amoxicillin,0.381474539,GVHD,Single drug analysis,0.03662227,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Amoxicillin,-2.223561206,GVHD,Single drug analysis,0.017337835,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Amoxicillin,-0.224431506,GVHD,Single drug analysis,0.00175743,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Amoxicillin,-0.992975788,GVHD,Single drug analysis,0.015683252,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Amoxicillin,-1.301518967,GVHD,Single drug analysis,0.04222615,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Acidaminococcus.s__,g__Acidaminococcus,Amoxicillin,0.716547793,GVHD,Single drug analysis,0.000824063,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Amoxicillin,-0.325256757,GVHD,Single drug analysis,0.022309034,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Coprobacillus.s__,g__Coprobacillus,Amoxicillin,0.842295257,GVHD,Single drug analysis,0.011089402,Promotion
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Amoxicillin,-0.970390071,GVHD,Single drug analysis,0.004027016,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Cefuroxime,0.800944059,GVHD,Single drug analysis,5.32E-05,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Corynebacteriaceae.g__Corynebacterium.s__,g__Corynebacterium,Cefuroxime,0.087898996,GVHD,Single drug analysis,0.010689145,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__dentocariosa,R. dentocariosa,Cefuroxime,0.067621221,GVHD,Single drug analysis,1.98E-07,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Cefuroxime,0.099381161,GVHD,Single drug analysis,0.000356332,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Cefuroxime,7.192525732,GVHD,Single drug analysis,0.000725585,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Cefuroxime,16.60773122,GVHD,Single drug analysis,3.63E-06,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Cefuroxime,2.91855674,GVHD,Single drug analysis,0.000836929,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Cefuroxime,1.168838711,GVHD,Single drug analysis,1.07E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Carnobacteriaceae.g__Granulicatella.s__,g__Granulicatella,Cefuroxime,-0.044515659,GVHD,Single drug analysis,0.012030866,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__,g__Lactobacillus2,Cefuroxime,-0.795184282,GVHD,Single drug analysis,0.042821388,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Cefuroxime,0.418363835,GVHD,Single drug analysis,1.67E-06,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Cefuroxime,-0.007515803,GVHD,Single drug analysis,0.009985937,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Cefuroxime,0.02663611,GVHD,Single drug analysis,0.011856474,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Cefuroxime,-0.199234499,GVHD,Single drug analysis,0.04367662,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Cefuroxime,-5.25102847,GVHD,Single drug analysis,0.004020102,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Cefuroxime,-0.402568382,GVHD,Single drug analysis,0.040186704,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Cefuroxime,0.297938149,GVHD,Single drug analysis,5.67E-06,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__.s__,f__Coriobacteriaceae,Ceftazidime,0.190030062,GVHD,Single drug analysis,5.63E-09,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Pediococcus.__,g__Pediococcus,Ceftazidime,0.998414748,GVHD,Single drug analysis,0.004192802,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Ceftazidime,-19.09117112,GVHD,Single drug analysis,0.030806706,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Ceftazidime,-0.629126964,GVHD,Single drug analysis,0.025674967,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Ceftazidime,1.904150386,GVHD,Single drug analysis,5.25E-13,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Ceftazidime,-0.20186515,GVHD,Single drug analysis,0.009000534,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Ceftazidime,3.337370484,GVHD,Single drug analysis,1.86E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Ceftazidime,0.022685045,GVHD,Single drug analysis,0.006066752,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Ceftazidime,6.594259635,GVHD,Single drug analysis,9.02E-12,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Ceftazidime,0.572580716,GVHD,Single drug analysis,0.000181684,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Ciprofloxacin,-0.002376917,GVHD,Single drug analysis,0.014063782,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Ciprofloxacin,2.825215404,GVHD,Single drug analysis,0.01102713,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Ciprofloxacin,2.160066344,GVHD,Single drug analysis,0.037059939,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Ciprofloxacin,0.268660449,GVHD,Single drug analysis,0.016037122,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__,g__Streptococcus2,Ciprofloxacin,1.543695089,GVHD,Single drug analysis,0.045287237,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Ciprofloxacin,-0.488188881,GVHD,Single drug analysis,0.000349195,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Ciprofloxacin,-0.121242427,GVHD,Single drug analysis,0.034208897,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Ciprofloxacin,-0.088503401,GVHD,Single drug analysis,0.018427946,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__producta,B. producta,Ciprofloxacin,-3.65201036,GVHD,Single drug analysis,0.027785433,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__symbiosum,C. symbiosum,Ciprofloxacin,-0.118206643,GVHD,Single drug analysis,0.013213273,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__,g__Dorea,Ciprofloxacin,-0.265368936,GVHD,Single drug analysis,0.022310185,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Ciprofloxacin,-0.263642853,GVHD,Single drug analysis,0.013720124,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Ciprofloxacin,-1.104186511,GVHD,Single drug analysis,0.015621959,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Ciprofloxacin,-2.461618041,GVHD,Single drug analysis,0.007448548,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Ciprofloxacin,-0.607744427,GVHD,Single drug analysis,0.015673477,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Ciprofloxacin,-1.586167388,GVHD,Single drug analysis,0.001318734,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Ciprofloxacin,-0.719079295,GVHD,Single drug analysis,0.00085748,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Ciprofloxacin,-0.756049916,GVHD,Single drug analysis,0.025173158,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Ciprofloxacin,-0.501479626,GVHD,Single drug analysis,0.006667849,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Ciprofloxacin,-2.48271835,GVHD,Single drug analysis,0.025300269,Inhibition
+Unassigned.__.__.__.__.__.__,Unassigned,Ciprofloxacin,0.019771756,GVHD,Single drug analysis,0.025652258,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Metronidazole,10.70430785,GVHD,Single drug analysis,6.94E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.__.__,f__Enterococcaceae,Metronidazole,15.68351068,GVHD,Single drug analysis,0.018545678,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Metronidazole,5.397463665,GVHD,Single drug analysis,0.034198631,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Metronidazole,0.610579482,GVHD,Single drug analysis,9.51E-05,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Meropenem,-0.002031801,GVHD,Single drug analysis,0.009726909,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Carnobacteriaceae.g__Granulicatella.s__,g__Granulicatella,Meropenem,-0.013731361,GVHD,Single drug analysis,0.014209835,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Meropenem,-0.267218327,GVHD,Single drug analysis,0.017412963,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Meropenem,0.026177135,GVHD,Single drug analysis,0.042002036,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Meropenem,-1.484255892,GVHD,Single drug analysis,6.73E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__longicatena,D. longicatena,Meropenem,-0.046751371,GVHD,Single drug analysis,0.031356487,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Meropenem,-0.063426474,GVHD,Single drug analysis,0.04195392,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Meropenem,-1.041208963,GVHD,Single drug analysis,0.009963839,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Meropenem,-0.584349893,GVHD,Single drug analysis,0.000860189,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Meropenem,-0.488985295,GVHD,Single drug analysis,0.001061085,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,Meropenem,-1.121537198,GVHD,Single drug analysis,0.027360309,Inhibition
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Meropenem,-0.328165748,GVHD,Single drug analysis,0.019730055,Inhibition
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__.s__,f__Coriobacteriaceae,Vancomycin,-0.024831057,GVHD,Single drug analysis,0.023755888,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Vancomycin,-10.26077685,GVHD,Single drug analysis,0.001948259,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Vancomycin,2.463871225,GVHD,Single drug analysis,0.000237771,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Vancomycin,3.768946272,GVHD,Single drug analysis,0.011358925,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Vancomycin,0.209442449,GVHD,Single drug analysis,0.002144864,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__salivarius,L. salivarius,Vancomycin,-0.98197209,GVHD,Single drug analysis,0.025529994,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Vancomycin,-0.572685357,GVHD,Single drug analysis,6.60E-11,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Vancomycin,-0.648831608,GVHD,Single drug analysis,0.031818559,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Vancomycin,-0.090786939,GVHD,Single drug analysis,0.000273851,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.__.__,f__Lachnospiraceae2,Vancomycin,-0.610488641,GVHD,Single drug analysis,0.018439118,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.s__,f__Lachnospiraceae1,Vancomycin,-1.218021757,GVHD,Single drug analysis,0.005719183,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Vancomycin,-1.048102702,GVHD,Single drug analysis,0.000537727,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__,g__Dorea,Vancomycin,-0.34387341,GVHD,Single drug analysis,4.82E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__longicatena,D. longicatena,Vancomycin,-0.054815141,GVHD,Single drug analysis,0.03669782,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Vancomycin,-0.179263717,GVHD,Single drug analysis,0.016491188,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__,g__Roseburia2,Vancomycin,-0.219299092,GVHD,Single drug analysis,0.022022543,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Vancomycin,-0.956253162,GVHD,Single drug analysis,0.001969373,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Vancomycin,0.707003183,GVHD,Single drug analysis,0.032494735,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Vancomycin,-1.753904135,GVHD,Single drug analysis,0.005449299,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Vancomycin,-0.419631948,GVHD,Single drug analysis,0.01296211,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Vancomycin,-1.421885582,GVHD,Single drug analysis,9.15E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Vancomycin,-0.620309249,GVHD,Single drug analysis,1.43E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Vancomycin,-0.633009749,GVHD,Single drug analysis,0.004975293,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Vancomycin,-0.133292476,GVHD,Single drug analysis,0.007753593,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Phascolarctobacterium.s__,g__Phascolarctobacterium,Vancomycin,0.01275647,GVHD,Single drug analysis,0.02961784,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,Vancomycin,-0.849156859,GVHD,Single drug analysis,0.03753245,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__longum,B. longum,Linezolid,1.078023443,GVHD,Single drug analysis,0.010251827,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Linezolid,0.551313096,GVHD,Single drug analysis,0.001994438,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Linezolid,9.433809716,GVHD,Single drug analysis,0.0001878,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Linezolid,6.547286772,GVHD,Single drug analysis,0.005768915,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Linezolid,20.22410347,GVHD,Single drug analysis,0.046322517,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Linezolid,0.248556625,GVHD,Single drug analysis,0.047149069,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Linezolid,-0.020314146,GVHD,Single drug analysis,0.032448735,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__symbiosum,C. symbiosum,Linezolid,-0.333436028,GVHD,Single drug analysis,0.002268387,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Linezolid,3.868999442,GVHD,Single drug analysis,0.000261164,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Linezolid,-0.602711019,GVHD,Single drug analysis,0.014428665,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Linezolid,4.504867508,GVHD,Single drug analysis,0.000236271,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Linezolid,-5.329490086,GVHD,Single drug analysis,0.011991232,Inhibition
+Unassigned.__.__.__.__.__.__,Unassigned,Linezolid,0.122215463,GVHD,Single drug analysis,1.87E-10,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__,g__Bifidobacterium2,ATG,-2.042677141,GVHD,Multiple drug analysis,0.023504829,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,ATG,2.850844605,GVHD,Multiple drug analysis,2.63E-15,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,ATG,0.288792345,GVHD,Multiple drug analysis,0.042141806,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,ATG,5.726519507,GVHD,Multiple drug analysis,4.65E-06,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,ATG,-7.155057859,GVHD,Multiple drug analysis,0.049559587,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Busulfan,-3.003609462,GVHD,Multiple drug analysis,0.033938487,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Busulfan,0.008210926,GVHD,Multiple drug analysis,0.004767387,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Busulfan,53.77163345,GVHD,Multiple drug analysis,0.000138701,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Busulfan,-21.86783718,GVHD,Multiple drug analysis,0.000589541,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Busulfan,0.649643815,GVHD,Multiple drug analysis,0.035228451,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Busulfan,-0.831114318,GVHD,Multiple drug analysis,0.008526077,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__,g__Streptococcus2,Busulfan,-5.307244418,GVHD,Multiple drug analysis,0.014749941,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Busulfan,2.304661902,GVHD,Multiple drug analysis,0.036366888,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Busulfan,10.63328266,GVHD,Multiple drug analysis,0.047907792,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Busulfan,-15.81104112,GVHD,Multiple drug analysis,0.024185801,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,Busulfan,-3.663888586,GVHD,Multiple drug analysis,0.033451641,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Cyclophosphamide,-0.53899311,GVHD,Multiple drug analysis,0.000167586,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Cyclophosphamide,23.08149548,GVHD,Multiple drug analysis,0.014285624,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Cyclophosphamide,-13.72026316,GVHD,Multiple drug analysis,0.001068336,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Cyclophosphamide,0.684725493,GVHD,Multiple drug analysis,0.000630772,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Cyclophosphamide,-0.454530998,GVHD,Multiple drug analysis,0.029332706,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__,g__Streptococcus2,Cyclophosphamide,-2.927857018,GVHD,Multiple drug analysis,0.041456455,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Cyclophosphamide,-1.147264226,GVHD,Multiple drug analysis,0.014582225,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Cyclophosphamide,-9.148296144,GVHD,Multiple drug analysis,0.047813139,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Fludarabine,-0.00845515,GVHD,Multiple drug analysis,0.001023517,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Fludarabine,0.41209281,GVHD,Multiple drug analysis,0.03649265,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Carnobacteriaceae.g__Granulicatella.s__,g__Granulicatella,Fludarabine,-0.037013449,GVHD,Multiple drug analysis,0.036720144,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Fludarabine,-18.72448799,GVHD,Multiple drug analysis,0.000956098,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Fludarabine,1.054417513,GVHD,Multiple drug analysis,8.96E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Fludarabine,31.64510506,GVHD,Multiple drug analysis,0.008135265,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Fludarabine,-0.774115234,GVHD,Multiple drug analysis,0.027813917,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Fludarabine,-0.244723123,GVHD,Multiple drug analysis,0.013319855,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Fludarabine,-2.309145808,GVHD,Multiple drug analysis,0.018143993,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Fludarabine,11.68417377,GVHD,Multiple drug analysis,0.014161715,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Fludarabine,-1.175222346,GVHD,Multiple drug analysis,0.033819859,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Fludarabine,0.939511034,GVHD,Multiple drug analysis,0.040867066,Promotion
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Fludarabine,-0.879811502,GVHD,Multiple drug analysis,0.043816328,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Melphalan,-3.003609462,GVHD,Multiple drug analysis,0.033938487,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Melphalan,0.008210926,GVHD,Multiple drug analysis,0.004767387,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Melphalan,53.77163345,GVHD,Multiple drug analysis,0.000138701,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Melphalan,-21.86783718,GVHD,Multiple drug analysis,0.000589541,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Melphalan,0.649643815,GVHD,Multiple drug analysis,0.035228451,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Melphalan,-0.831114318,GVHD,Multiple drug analysis,0.008526077,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__,g__Streptococcus2,Melphalan,-5.307244418,GVHD,Multiple drug analysis,0.014749941,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Melphalan,2.304661902,GVHD,Multiple drug analysis,0.036366888,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Melphalan,10.63328266,GVHD,Multiple drug analysis,0.047907792,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Melphalan,-15.81104112,GVHD,Multiple drug analysis,0.024185801,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,Melphalan,-3.663888586,GVHD,Multiple drug analysis,0.033451641,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,VP16,3.003609462,GVHD,Multiple drug analysis,0.033938487,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,VP16,-0.008210926,GVHD,Multiple drug analysis,0.004767387,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,VP16,-53.77163345,GVHD,Multiple drug analysis,0.000138701,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,VP16,21.86783718,GVHD,Multiple drug analysis,0.000589541,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,VP16,-0.649643815,GVHD,Multiple drug analysis,0.035228451,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,VP16,0.831114318,GVHD,Multiple drug analysis,0.008526077,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__,g__Streptococcus2,VP16,5.307244418,GVHD,Multiple drug analysis,0.014749941,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,VP16,-2.304661902,GVHD,Multiple drug analysis,0.036366888,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,VP16,-10.63328266,GVHD,Multiple drug analysis,0.047907792,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,VP16,15.81104112,GVHD,Multiple drug analysis,0.024185801,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,VP16,3.663888586,GVHD,Multiple drug analysis,0.033451641,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Thiotepa,-0.648653191,GVHD,Multiple drug analysis,0.007333684,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Thiotepa,-0.071078031,GVHD,Multiple drug analysis,0.036284886,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__,g__Bifidobacterium2,Thiotepa,-1.891547245,GVHD,Multiple drug analysis,0.000425907,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Thiotepa,0.007545794,GVHD,Multiple drug analysis,0.017154114,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Thiotepa,1.034563643,GVHD,Multiple drug analysis,9.65E-06,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Thiotepa,-2.375918168,GVHD,Multiple drug analysis,0.025109536,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__,g__Lactobacillus2,Thiotepa,-1.094754236,GVHD,Multiple drug analysis,0.019074863,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Thiotepa,-0.247305626,GVHD,Multiple drug analysis,0.02177211,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Thiotepa,-0.008850015,GVHD,Multiple drug analysis,0.011149296,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Thiotepa,2.947796043,GVHD,Multiple drug analysis,0.013235003,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Thiotepa,-0.033025098,GVHD,Multiple drug analysis,0.009209538,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Megasphaera.s__,g__Megasphaera,Thiotepa,-0.012091419,GVHD,Multiple drug analysis,0.009524904,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Thiotepa,-7.292785482,GVHD,Multiple drug analysis,0.000770128,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Thiotepa,0.477434488,GVHD,Multiple drug analysis,0.041199262,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Methotrexate,0.014396721,GVHD,Multiple drug analysis,1.15E-06,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Carnobacteriaceae.g__Granulicatella.s__,g__Granulicatella,Methotrexate,0.079384453,GVHD,Multiple drug analysis,0.00010335,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Methotrexate,0.851379827,GVHD,Multiple drug analysis,0.036515283,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Tissierellaceae..g__Finegoldia.s__,g__Finegoldia,Methotrexate,0.052781646,GVHD,Multiple drug analysis,0.002357564,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Methotrexate,0.119585277,GVHD,Multiple drug analysis,0.01223481,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.__,g__Clostridium1,Methotrexate,3.198547758,GVHD,Multiple drug analysis,0.014693255,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Methotrexate,1.101652755,GVHD,Multiple drug analysis,0.007508759,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Methotrexate,0.493276873,GVHD,Multiple drug analysis,1.44E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Methotrexate,4.219173274,GVHD,Multiple drug analysis,0.000195035,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Methotrexate,0.241744774,GVHD,Multiple drug analysis,0.03625438,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Methotrexate,0.02518174,GVHD,Multiple drug analysis,0.010601701,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Methotrexate,6.033976018,GVHD,Multiple drug analysis,0.028681317,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Methotrexate,5.202106257,GVHD,Multiple drug analysis,0.000506876,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Methotrexate,1.890852119,GVHD,Multiple drug analysis,0.003447732,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Methotrexate,2.621414939,GVHD,Multiple drug analysis,0.009969256,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Methotrexate,-1.63777798,GVHD,Multiple drug analysis,0.002217526,Inhibition
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Methotrexate,1.602192989,GVHD,Multiple drug analysis,0.001607102,Promotion
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Methotrexate,-8.502374983,GVHD,Multiple drug analysis,0.01011245,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Trimethoprim.sulfamethoxazole,0.365785697,GVHD,Multiple drug analysis,0.035726598,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Collinsella.s__aerofaciens,C. aerofaciens,Trimethoprim.sulfamethoxazole,0.116940335,GVHD,Multiple drug analysis,0.020956636,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,Trimethoprim.sulfamethoxazole,0.069866998,GVHD,Multiple drug analysis,0.029245137,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Trimethoprim.sulfamethoxazole,1.041841407,GVHD,Multiple drug analysis,0.029380163,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Trimethoprim.sulfamethoxazole,1.571278623,GVHD,Multiple drug analysis,0.000852957,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Trimethoprim.sulfamethoxazole,-0.89236513,GVHD,Multiple drug analysis,0.024636185,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Trimethoprim.sulfamethoxazole,-3.08887375,GVHD,Multiple drug analysis,0.00919917,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__salivarius,L. salivarius,Trimethoprim.sulfamethoxazole,2.935102679,GVHD,Multiple drug analysis,0.000117968,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__producta,B. producta,Trimethoprim.sulfamethoxazole,7.054043005,GVHD,Multiple drug analysis,0.000175097,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Trimethoprim.sulfamethoxazole,-0.929689787,GVHD,Multiple drug analysis,0.037496752,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Trimethoprim.sulfamethoxazole,1.109741227,GVHD,Multiple drug analysis,0.038574616,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Trimethoprim.sulfamethoxazole,-1.499378722,GVHD,Multiple drug analysis,0.00875425,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Trimethoprim.sulfamethoxazole,1.531155839,GVHD,Multiple drug analysis,0.013500146,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Butyricicoccus.s__pullicaecorum,B. pullicaecorum,Trimethoprim.sulfamethoxazole,0.072498859,GVHD,Multiple drug analysis,0.033832439,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Trimethoprim.sulfamethoxazole,0.012274552,GVHD,Multiple drug analysis,0.001226424,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Phenoxymethylpenicillin,0.478976426,GVHD,Multiple drug analysis,0.0025253,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Phenoxymethylpenicillin,0.007415585,GVHD,Multiple drug analysis,0.000309593,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Phenoxymethylpenicillin,5.789448022,GVHD,Multiple drug analysis,0.000527237,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Phenoxymethylpenicillin,1.699595631,GVHD,Multiple drug analysis,0.042566289,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Phenoxymethylpenicillin,1.005357939,GVHD,Multiple drug analysis,0.000526584,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Phenoxymethylpenicillin,-0.226411821,GVHD,Multiple drug analysis,0.021465227,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Phenoxymethylpenicillin,0.748300904,GVHD,Multiple drug analysis,0.006723177,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Tissierellaceae..g__Finegoldia.s__,g__Finegoldia,Phenoxymethylpenicillin,0.033859883,GVHD,Multiple drug analysis,0.004288006,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Phenoxymethylpenicillin,0.069339093,GVHD,Multiple drug analysis,0.033653421,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Phenoxymethylpenicillin,0.290636754,GVHD,Multiple drug analysis,0.011766382,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Phenoxymethylpenicillin,0.263594053,GVHD,Multiple drug analysis,0.000790724,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Phenoxymethylpenicillin,-0.259853917,GVHD,Multiple drug analysis,0.017656362,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Phenoxymethylpenicillin,-0.005566174,GVHD,Multiple drug analysis,0.015336824,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Phenoxymethylpenicillin,0.016864839,GVHD,Multiple drug analysis,0.044218611,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Phenoxymethylpenicillin,3.056202508,GVHD,Multiple drug analysis,0.000837316,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Phenoxymethylpenicillin,1.877595242,GVHD,Multiple drug analysis,0.000183946,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Phenoxymethylpenicillin,2.649186843,GVHD,Multiple drug analysis,0.010096465,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Phenoxymethylpenicillin,1.414495559,GVHD,Multiple drug analysis,0.00128364,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Phenoxymethylpenicillin,-3.27984504,GVHD,Multiple drug analysis,0.02291555,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Phenoxymethylpenicillin,0.228827831,GVHD,Multiple drug analysis,9.24E-06,Promotion
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Phenoxymethylpenicillin,1.411878164,GVHD,Multiple drug analysis,3.65E-05,Promotion
+k__Bacteria.p__Verrucomicrobia.c__Verrucomicrobiae.o__Verrucomicrobiales.f__Verrucomicrobiaceae.g__Akkermansia.s__muciniphila,A. muciniphila,Phenoxymethylpenicillin,1.574398882,GVHD,Multiple drug analysis,0.045696462,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__dentocariosa,R. dentocariosa,Amoxicillin,0.339423399,GVHD,Multiple drug analysis,2.96E-08,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Scardovia.s__,g__Scardovia,Amoxicillin,2.690194449,GVHD,Multiple drug analysis,1.40E-08,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Atopobium.s__,g__Atopobium,Amoxicillin,0.152938636,GVHD,Multiple drug analysis,0.002096107,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Amoxicillin,0.318814372,GVHD,Multiple drug analysis,0.029710423,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__fragilis,B. fragilis,Amoxicillin,-20.94428478,GVHD,Multiple drug analysis,2.32E-09,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Amoxicillin,2.438687263,GVHD,Multiple drug analysis,0.022399582,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Amoxicillin,20.20493754,GVHD,Multiple drug analysis,0.029141255,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__infantis,S. infantis,Amoxicillin,1.33521215,GVHD,Multiple drug analysis,0.01347717,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Amoxicillin,-0.651283197,GVHD,Multiple drug analysis,0.009539228,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Amoxicillin,0.548981191,GVHD,Multiple drug analysis,0.000207549,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Amoxicillin,0.219822853,GVHD,Multiple drug analysis,0.027598533,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Amoxicillin,-2.064912348,GVHD,Multiple drug analysis,0.004140342,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__longicatena,D. longicatena,Amoxicillin,0.17669137,GVHD,Multiple drug analysis,0.014368449,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.__,g__Roseburia1,Amoxicillin,0.379338548,GVHD,Multiple drug analysis,0.033941601,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Anaerotruncus.s__,g__Anaerotruncus,Amoxicillin,-0.184703244,GVHD,Multiple drug analysis,0.009629538,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Amoxicillin,0.998675995,GVHD,Multiple drug analysis,0.034734802,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Acidaminococcus.s__,g__Acidaminococcus,Amoxicillin,0.721489569,GVHD,Multiple drug analysis,0.000602311,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Amoxicillin,-0.309498923,GVHD,Multiple drug analysis,0.026386428,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Coprobacillus.s__,g__Coprobacillus,Amoxicillin,0.881231515,GVHD,Multiple drug analysis,0.006853535,Promotion
+k__Bacteria.p__Proteobacteria.c__Epsilonproteobacteria.o__Campylobacterales.f__Campylobacteraceae.g__Campylobacter.s__,g__Campylobacter,Amoxicillin,-0.798014207,GVHD,Multiple drug analysis,0.015720579,Inhibition
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Actinomycetaceae.g__Actinomyces.s__,g__Actinomyces,Cefuroxime,0.821245912,GVHD,Multiple drug analysis,3.46E-05,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Corynebacteriaceae.g__Corynebacterium.s__,g__Corynebacterium,Cefuroxime,0.08803233,GVHD,Multiple drug analysis,0.010214226,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__dentocariosa,R. dentocariosa,Cefuroxime,0.067039305,GVHD,Multiple drug analysis,2.21E-07,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Cefuroxime,0.10234829,GVHD,Multiple drug analysis,0.00024059,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__,g__Bacteroides2,Cefuroxime,7.249370851,GVHD,Multiple drug analysis,0.000625261,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Cefuroxime,16.65685895,GVHD,Multiple drug analysis,3.08E-06,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Cefuroxime,3.059006215,GVHD,Multiple drug analysis,0.000463868,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Bacillales.f__Staphylococcaceae.g__Staphylococcus.__,g__Staphylococcus,Cefuroxime,1.146085729,GVHD,Multiple drug analysis,2.36E-10,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Carnobacteriaceae.g__Granulicatella.s__,g__Granulicatella,Cefuroxime,-0.038913637,GVHD,Multiple drug analysis,0.030680923,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__,g__Lactobacillus2,Cefuroxime,-0.804012058,GVHD,Multiple drug analysis,0.039503508,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Cefuroxime,0.422274356,GVHD,Multiple drug analysis,1.25E-06,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Cefuroxime,0.090314503,GVHD,Multiple drug analysis,0.029081337,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Cefuroxime,-0.007264379,GVHD,Multiple drug analysis,0.01255563,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Cefuroxime,0.027816201,GVHD,Multiple drug analysis,0.008545098,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Cefuroxime,-5.111865926,GVHD,Multiple drug analysis,0.004972442,Inhibition
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Cefuroxime,-0.390731613,GVHD,Multiple drug analysis,0.045276288,Inhibition
+k__Bacteria.p__Proteobacteria.c__Deltaproteobacteria.o__Desulfovibrionales.f__Desulfovibrionaceae.g__Bilophila.s__,g__Bilophila,Cefuroxime,0.296017282,GVHD,Multiple drug analysis,5.92E-06,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Ceftazidime,0.044993849,GVHD,Multiple drug analysis,0.04748519,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__.s__,f__Coriobacteriaceae,Ceftazidime,0.190239719,GVHD,Multiple drug analysis,4.38E-09,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Pediococcus.__,g__Pediococcus,Ceftazidime,0.915910268,GVHD,Multiple drug analysis,0.008620683,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Ceftazidime,-25.83635546,GVHD,Multiple drug analysis,0.006760934,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Ceftazidime,-0.636995388,GVHD,Multiple drug analysis,0.021673699,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__celatum,C. celatum,Ceftazidime,1.998176766,GVHD,Multiple drug analysis,4.32E-14,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Ceftazidime,-0.167935821,GVHD,Multiple drug analysis,0.034975808,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__hathewayi,C. hathewayi,Ceftazidime,3.465354649,GVHD,Multiple drug analysis,9.62E-06,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Ceftazidime,0.024643468,GVHD,Multiple drug analysis,0.00289611,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Peptostreptococcaceae.__.__,f__Peptostreptococcaceae2,Ceftazidime,6.886141802,GVHD,Multiple drug analysis,7.93E-13,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.s__,f__Erysipelotrichaceae,Ceftazidime,0.580881471,GVHD,Multiple drug analysis,0.000130522,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Ciprofloxacin,2.826299449,GVHD,Multiple drug analysis,0.012890931,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Ciprofloxacin,0.265158877,GVHD,Multiple drug analysis,0.020429672,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.__,g__Streptococcus2,Ciprofloxacin,1.548066009,GVHD,Multiple drug analysis,0.049650807,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Ciprofloxacin,-0.40377008,GVHD,Multiple drug analysis,0.003812375,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Ciprofloxacin,-0.143673278,GVHD,Multiple drug analysis,0.013973841,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Ciprofloxacin,0.002368042,GVHD,Multiple drug analysis,0.042301023,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__symbiosum,C. symbiosum,Ciprofloxacin,-0.111786231,GVHD,Multiple drug analysis,0.022887478,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Ciprofloxacin,-0.260700992,GVHD,Multiple drug analysis,0.018442112,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Ciprofloxacin,-1.096748244,GVHD,Multiple drug analysis,0.019096041,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Ciprofloxacin,-2.089984803,GVHD,Multiple drug analysis,0.02813668,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Ciprofloxacin,-0.625537391,GVHD,Multiple drug analysis,0.015268619,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Ciprofloxacin,-1.332005832,GVHD,Multiple drug analysis,0.010650413,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Ciprofloxacin,-0.587997883,GVHD,Multiple drug analysis,0.008613553,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Ciprofloxacin,-0.420146493,GVHD,Multiple drug analysis,0.024036526,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Ciprofloxacin,-3.068746728,GVHD,Multiple drug analysis,0.00709938,Inhibition
+Unassigned.__.__.__.__.__.__,Unassigned,Ciprofloxacin,0.020116056,GVHD,Multiple drug analysis,0.026597319,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Metronidazole,10.65546961,GVHD,Multiple drug analysis,7.76E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.__.__,f__Enterococcaceae,Metronidazole,15.34829945,GVHD,Multiple drug analysis,0.021299244,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Metronidazole,5.25581773,GVHD,Multiple drug analysis,0.039801002,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Metronidazole,0.602669848,GVHD,Multiple drug analysis,0.000118281,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Meropenem,-1.319366223,GVHD,Multiple drug analysis,0.01474924,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__putredinis,A. putredinis,Meropenem,-0.393929691,GVHD,Multiple drug analysis,0.02747653,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Meropenem,0.170901687,GVHD,Multiple drug analysis,0.043370528,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Meropenem,-2.618754157,GVHD,Multiple drug analysis,1.06E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Meropenem,-1.772627443,GVHD,Multiple drug analysis,0.011933053,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Meropenem,-1.601417483,GVHD,Multiple drug analysis,0.016518289,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Meropenem,-0.798374619,GVHD,Multiple drug analysis,0.005221055,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Meropenem,-0.936111698,GVHD,Multiple drug analysis,0.037940551,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Megasphaera.s__,g__Megasphaera,Meropenem,-0.004441538,GVHD,Multiple drug analysis,0.025850471,Inhibition
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__.s__,f__Coriobacteriaceae,Vancomycin,-0.035172198,GVHD,Multiple drug analysis,0.004033864,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Vancomycin,-0.999512319,GVHD,Multiple drug analysis,0.020224083,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__distasonis,P. distasonis,Vancomycin,0.674598119,GVHD,Multiple drug analysis,0.032603281,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.__.__.__,o__Lactobacillales,Vancomycin,-11.02484274,GVHD,Multiple drug analysis,0.003003521,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Vancomycin,2.805718658,GVHD,Multiple drug analysis,0.000179399,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.__.__,f__Lactobacillaceae,Vancomycin,3.316635316,GVHD,Multiple drug analysis,0.045752651,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__delbrueckii,L. delbrueckii,Vancomycin,0.223424663,GVHD,Multiple drug analysis,0.004813094,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Lactobacillaceae.g__Lactobacillus.s__salivarius,L. salivarius,Vancomycin,-1.175053135,GVHD,Multiple drug analysis,0.016832122,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Vancomycin,9.348185546,GVHD,Multiple drug analysis,0.007385361,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.__.__.__,o__Clostridiales2,Vancomycin,-0.600413239,GVHD,Multiple drug analysis,7.63E-10,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Vancomycin,-0.891105914,GVHD,Multiple drug analysis,0.008426216,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Vancomycin,-0.035461044,GVHD,Multiple drug analysis,0.003822321,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__,g__Clostridium2,Vancomycin,-1.72682389,GVHD,Multiple drug analysis,0.004201982,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__Clostridium.s__paraputrificum,C. paraputrificum,Vancomycin,-0.083488559,GVHD,Multiple drug analysis,0.045921125,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__SMB53.s__,g__SMB53,Vancomycin,-0.118129619,GVHD,Multiple drug analysis,3.83E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.__.__,f__Lachnospiraceae2,Vancomycin,-0.841903485,GVHD,Multiple drug analysis,0.003896039,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.s__,f__Lachnospiraceae1,Vancomycin,-1.34680176,GVHD,Multiple drug analysis,0.006682337,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Vancomycin,-0.860300682,GVHD,Multiple drug analysis,0.011696839,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__,g__Dorea,Vancomycin,-0.284867397,GVHD,Multiple drug analysis,0.000574085,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Vancomycin,-0.259775906,GVHD,Multiple drug analysis,0.002058881,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Vancomycin,-1.057316314,GVHD,Multiple drug analysis,0.002206622,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Vancomycin,-1.356652065,GVHD,Multiple drug analysis,0.000846069,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Vancomycin,-1.719573655,GVHD,Multiple drug analysis,0.015335739,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Gemmiger.s__formicilis,G. formicilis,Vancomycin,-0.586208457,GVHD,Multiple drug analysis,0.00197793,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Vancomycin,-1.695470351,GVHD,Multiple drug analysis,3.84E-06,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__,g__Ruminococcus1,Vancomycin,-0.645296744,GVHD,Multiple drug analysis,5.92E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Vancomycin,-0.867505682,GVHD,Multiple drug analysis,0.000661828,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Vancomycin,-0.157452443,GVHD,Multiple drug analysis,0.004891985,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Phascolarctobacterium.s__,g__Phascolarctobacterium,Vancomycin,0.013876905,GVHD,Multiple drug analysis,0.034449333,Promotion
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Linezolid,2.261789189,GVHD,Multiple drug analysis,0.049749504,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__longum,B. longum,Linezolid,1.091483177,GVHD,Multiple drug analysis,0.009775987,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Linezolid,0.550236009,GVHD,Multiple drug analysis,0.00205135,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Linezolid,9.39177705,GVHD,Multiple drug analysis,0.000199938,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Linezolid,6.411145019,GVHD,Multiple drug analysis,0.006920933,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Linezolid,-0.01997708,GVHD,Multiple drug analysis,0.036509351,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__symbiosum,C. symbiosum,Linezolid,-0.32365196,GVHD,Multiple drug analysis,0.003247471,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Linezolid,3.901672198,GVHD,Multiple drug analysis,0.000223899,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Linezolid,-0.584645539,GVHD,Multiple drug analysis,0.018947371,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__.s__,f__Ruminococcaceae1,Linezolid,4.49018151,GVHD,Multiple drug analysis,0.000249706,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Linezolid,-4.960783078,GVHD,Multiple drug analysis,0.020550864,Inhibition
+Unassigned.__.__.__.__.__.__,Unassigned,Linezolid,0.122387,GVHD,Multiple drug analysis,1.86E-10,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.__,g__Bifidobacterium1,Antibiotic,-0.848176638,Chemo,Single drug analysis,0.009602381,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__,g__Prevotella,Antibiotic,0.071218503,Chemo,Single drug analysis,0.045556758,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Prevotellaceae.g__Prevotella.s__copri,P. copri,Antibiotic,-5.003694232,Chemo,Single drug analysis,0.007082831,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,Antibiotic,-1.967333924,Chemo,Single drug analysis,0.009156685,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__citroniae,C. citroniae,Antibiotic,0.775767404,Chemo,Single drug analysis,0.011216242,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Barnesiellaceae..g__.s__,f__Barnesiellaceae,Cephalosporins,0.138126379,Chemo,Single drug analysis,0.005096981,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__.Odoribacteraceae..g__Odoribacter.s__,g__Odoribacter,Cephalosporins,-0.251025783,Chemo,Single drug analysis,0.02207237,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.__,g__Bacteroides1,Cephalosporins,-2.097846628,Chemo,Single drug analysis,0.022002831,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Cephalosporins,-2.554781316,Chemo,Single drug analysis,0.012220338,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__Alistipes.s__onderdonkii,A. onderdonkii,Cephalosporins,-2.109679811,Chemo,Single drug analysis,0.038976093,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Cephalosporins,2.876198608,Chemo,Single drug analysis,0.027734236,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Cephalosporins,6.474733306,Chemo,Single drug analysis,0.01802806,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Cephalosporins,-0.045208655,Chemo,Single drug analysis,0.012943176,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Cephalosporins,-0.304700149,Chemo,Single drug analysis,0.042628962,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Cephalosporins,-0.605114333,Chemo,Single drug analysis,0.022758439,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__,g__Blautia,Cephalosporins,-3.137549567,Chemo,Single drug analysis,0.000882962,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.s__lavalense,C. lavalense,Cephalosporins,-0.117310213,Chemo,Single drug analysis,0.047886089,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__,g__Dorea,Cephalosporins,-1.125767554,Chemo,Single drug analysis,0.006358325,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__formicigenerans,D. formicigenerans,Cephalosporins,-0.148398539,Chemo,Single drug analysis,0.004987599,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Phascolarctobacterium.s__,g__Phascolarctobacterium,Cephalosporins,0.789549881,Chemo,Single drug analysis,0.015984455,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__Clostridium.s__spiroforme,C. spiroforme,Cephalosporins,-0.164637686,Chemo,Single drug analysis,0.04918355,Inhibition
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Enterobacteriales.f__Enterobacteriaceae.__.__,f__Enterobacteriaceae,Cephalosporins,-7.468723298,Chemo,Single drug analysis,0.005184785,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Metronidazole,11.24959962,Chemo,Single drug analysis,2.89E-18,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Metronidazole,5.446343136,Chemo,Single drug analysis,8.49E-34,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Metronidazole,0.283034415,Chemo,Single drug analysis,1.98E-20,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Metronidazole,0.314361002,Chemo,Single drug analysis,8.07E-22,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Metronidazole,1.13396078,Chemo,Single drug analysis,1.16E-38,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Christensenellaceae.g__.s__,f__Christensenellaceae,Metronidazole,0.24088648,Chemo,Single drug analysis,0.047616344,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Metronidazole,3.586675454,Chemo,Single drug analysis,0.002789855,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Ruminococcus.s__bromii,R. bromii,Metronidazole,3.073611146,Chemo,Single drug analysis,0.00146292,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Carbapenem,-4.282474422,Chemo,Single drug analysis,0.021324172,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__uniformis,B. uniformis,Carbapenem,-1.88351735,Chemo,Single drug analysis,0.01623907,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Rikenellaceae.g__.s__,f__Rikenellaceae,Carbapenem,-0.231051958,Chemo,Single drug analysis,0.002639561,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Carbapenem,11.33855346,Chemo,Single drug analysis,0.000830927,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Lactococcus.s__,g__Lactococcus,Carbapenem,3.412234762,Chemo,Single drug analysis,0.013313227,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Carbapenem,9.361247425,Chemo,Single drug analysis,0.001121709,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.g__.s__,o__Clostridiales1,Carbapenem,-1.040186305,Chemo,Single drug analysis,0.023087457,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__.Mogibacteriaceae..g__.s__,f__Mogibacteriaceae,Carbapenem,-0.041838852,Chemo,Single drug analysis,0.029848156,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.__.__,f__Lachnospiraceae2,Carbapenem,-1.261226815,Chemo,Single drug analysis,1.51E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__,g__Ruminococcus2,Carbapenem,-0.387990359,Chemo,Single drug analysis,0.014319625,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.s__,f__Lachnospiraceae1,Carbapenem,-0.92412614,Chemo,Single drug analysis,0.006980862,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Coprococcus.s__,g__Coprococcus,Carbapenem,-1.633922256,Chemo,Single drug analysis,0.000441899,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Dorea.s__formicigenerans,D. formicigenerans,Carbapenem,-0.209398322,Chemo,Single drug analysis,0.000155414,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Lachnospira.s__,g__Lachnospira,Carbapenem,-0.093105264,Chemo,Single drug analysis,0.017815764,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__,g__Roseburia2,Carbapenem,-0.239568356,Chemo,Single drug analysis,0.029171722,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Roseburia.s__faecis,R. faecis,Carbapenem,-1.329059416,Chemo,Single drug analysis,7.02E-05,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Oscillospira.s__,g__Oscillospira,Carbapenem,-0.511358783,Chemo,Single drug analysis,0.017764393,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Carbapenem,0.074595095,Chemo,Single drug analysis,0.02495872,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Carbapenem,0.019295395,Chemo,Single drug analysis,0.004391192,Promotion
+k__Bacteria.p__Proteobacteria.c__Gammaproteobacteria.o__Pasteurellales.f__Pasteurellaceae.g__Haemophilus.s__parainfluenzae,H. parainfluenzae,Carbapenem,-0.032286273,Chemo,Single drug analysis,0.043029836,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Meropenem,6.165895956,Chemo,Single drug analysis,0.001322481,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Meropenem,3.035493207,Chemo,Single drug analysis,0.000893184,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Meropenem,22.98758713,Chemo,Single drug analysis,0.045000325,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Meropenem,0.156915257,Chemo,Single drug analysis,0.001051105,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Meropenem,0.173203644,Chemo,Single drug analysis,0.001132136,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Meropenem,0.632699572,Chemo,Single drug analysis,0.000875404,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Meropenem,2.178269963,Chemo,Single drug analysis,0.039815746,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Meropenem,4.656165677,Chemo,Single drug analysis,0.007729848,Promotion
+k__Archaea.p__Euryarchaeota.c__Methanobacteria.o__Methanobacteriales.f__Methanobacteriaceae.g__Methanobrevibacter.s__,g__Methanobrevibacter,Piperacillin.tazobactam,-0.913772277,Chemo,Single drug analysis,0.033942386,Inhibition
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Piperacillin.tazobactam,0.4632892,Chemo,Single drug analysis,0.028798994,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__longum,B. longum,Piperacillin.tazobactam,0.015813001,Chemo,Single drug analysis,0.016205537,Promotion
+k__Bacteria.p__Actinobacteria.c__Coriobacteriia.o__Coriobacteriales.f__Coriobacteriaceae.g__Eggerthella.s__lenta,E. lenta,Piperacillin.tazobactam,0.028197884,Chemo,Single drug analysis,0.019377128,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__caccae,B. caccae,Piperacillin.tazobactam,-3.04142335,Chemo,Single drug analysis,0.04143493,Inhibition
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Bacteroidaceae.g__Bacteroides.s__ovatus,B. ovatus,Piperacillin.tazobactam,-5.087693903,Chemo,Single drug analysis,0.014062153,Inhibition
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Piperacillin.tazobactam,15.24118082,Chemo,Single drug analysis,4.87E-05,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Clostridiaceae.g__.s__,f__Clostridiaceae,Piperacillin.tazobactam,0.009054743,Chemo,Single drug analysis,0.027650492,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.__.__,f__Lachnospiraceae2,Piperacillin.tazobactam,-0.999989063,Chemo,Single drug analysis,0.00336922,Inhibition
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Dialister.s__,g__Dialister,Piperacillin.tazobactam,0.483462579,Chemo,Single drug analysis,0.046797217,Promotion
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Vancomycin,6.165895956,Chemo,Single drug analysis,0.001322481,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Vancomycin,3.035493207,Chemo,Single drug analysis,0.000893184,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Vancomycin,22.98758713,Chemo,Single drug analysis,0.045000325,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Vancomycin,0.156915257,Chemo,Single drug analysis,0.001051105,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Vancomycin,0.173203644,Chemo,Single drug analysis,0.001132136,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Vancomycin,0.632699572,Chemo,Single drug analysis,0.000875404,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__.Ruminococcus..s__torques,R. torques,Vancomycin,2.178269963,Chemo,Single drug analysis,0.039815746,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.__.__,f__Ruminococcaceae2,Vancomycin,4.656165677,Chemo,Single drug analysis,0.007729848,Promotion
+k__Bacteria.__.__.__.__.__.__,k__Bacteria,Amphotericin.B,4.194983845,Chemo,Single drug analysis,0.006673786,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Actinomycetales.f__Micrococcaceae.g__Rothia.s__mucilaginosa,R. mucilaginosa,Amphotericin.B,1.83257275,Chemo,Single drug analysis,0.015442161,Promotion
+k__Bacteria.p__Bacteroidetes.c__Bacteroidia.o__Bacteroidales.f__Porphyromonadaceae.g__Parabacteroides.s__,g__Parabacteroides,Amphotericin.B,24.14454103,Chemo,Single drug analysis,0.004218907,Promotion
+k__Bacteria.p__Cyanobacteria.c__Chloroplast.o__Streptophyta.f__.g__.s__,o__Streptophyta,Amphotericin.B,0.247581219,Chemo,Single drug analysis,0.03496032,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.__,g__Enterococcus1,Amphotericin.B,0.093044155,Chemo,Single drug analysis,0.0191127,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Enterococcaceae.g__Enterococcus.s__,g__Enterococcus2,Amphotericin.B,0.102434185,Chemo,Single drug analysis,0.020162263,Promotion
+k__Bacteria.p__Firmicutes.c__Bacilli.o__Lactobacillales.f__Streptococcaceae.g__Streptococcus.s__,g__Streptococcus1,Amphotericin.B,0.381472482,Chemo,Single drug analysis,0.015450972,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Clostridium.__,g__Clostridium,Amphotericin.B,10.06086464,Chemo,Single drug analysis,0.04630993,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__dispar,V. dispar,Amphotericin.B,0.005394584,Chemo,Single drug analysis,0.025144689,Promotion
+k__Bacteria.p__Actinobacteria.c__Actinobacteria.o__Bifidobacteriales.f__Bifidobacteriaceae.g__Bifidobacterium.s__,g__Bifidobacterium2,Doxorubicin,2.253219833,Chemo,Multiple drug analysis,0.018451989,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Lachnospiraceae.g__Blautia.s__producta,B. producta,Doxorubicin,0.302706012,Chemo,Multiple drug analysis,0.003527275,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Clostridium.s__methylpentosum,C. methylpentosum,Doxorubicin,0.005557437,Chemo,Multiple drug analysis,0.01934301,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Ruminococcaceae.g__Faecalibacterium.s__prausnitzii,F. prausnitzii,Doxorubicin,8.257623585,Chemo,Multiple drug analysis,0.028065226,Promotion
+k__Bacteria.p__Firmicutes.c__Clostridia.o__Clostridiales.f__Veillonellaceae.g__Veillonella.s__parvula,V. parvula,Doxorubicin,0.062501555,Chemo,Multiple drug analysis,0.032210119,Promotion
+k__Bacteria.p__Firmicutes.c__Erysipelotrichi.o__Erysipelotrichales.f__Erysipelotrichaceae.g__.Eubacterium..s__dolichum,E. dolichum,Doxorubicin,0.125243616,Chemo,Multiple drug analysis,0.01723187,Promotion
