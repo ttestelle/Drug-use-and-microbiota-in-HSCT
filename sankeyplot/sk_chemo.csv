@@ -1,0 +1,19 @@
+Taxa,Antibiotic,Cephalosporins,Metronidazole,Carbapenem,Meropenem,Piperacillin.tazobactam,Vancomycin,Amphotericin.B,nodeColor
+B. caccae,NA,NA,NA,NA,NA,-3.04142335,NA,NA,Bacteroidetes
+B. ovatus,NA,NA,NA,-4.282474422,NA,-5.087693903,NA,NA,Bacteroidetes
+B. uniformis,NA,NA,NA,-1.88351735,NA,NA,NA,NA,Bacteroidetes
+P. copri,-5.003694232,NA,NA,NA,NA,NA,NA,NA,Bacteroidetes
+A. onderdonkii,NA,-2.109679811,NA,NA,NA,NA,NA,NA,Bacteroidetes
+R. torques,NA,-0.605114333,3.586675454,NA,2.178269963,NA,2.178269963,NA,Firmicutes
+C. citroniae,0.775767404,NA,NA,NA,NA,NA,NA,NA,Firmicutes
+C. lavalense,NA,-0.117310213,NA,NA,NA,NA,NA,NA,Firmicutes
+D. formicigenerans,NA,-0.148398539,NA,-0.209398322,NA,NA,NA,NA,Firmicutes
+R. faecis,NA,NA,NA,-1.329059416,NA,NA,NA,NA,Firmicutes
+R. bromii,NA,NA,3.073611146,NA,NA,NA,NA,NA,Firmicutes
+V. dispar,NA,NA,NA,0.074595095,NA,NA,NA,0.005394584,Firmicutes
+V. parvula,NA,NA,NA,0.019295395,NA,NA,NA,NA,Firmicutes
+C. spiroforme,NA,-0.164637686,NA,NA,NA,NA,NA,NA,Firmicutes
+R. mucilaginosa,NA,NA,5.446343136,NA,3.035493207,NA,3.035493207,1.83257275,Actinobacteria
+B. longum,NA,NA,NA,NA,NA,0.015813001,NA,NA,Actinobacteria
+E. lenta,NA,NA,NA,NA,NA,0.028197884,NA,NA,Actinobacteria
+H. parainfluenzae,NA,NA,NA,-0.032286273,NA,NA,NA,NA,Proteobacteria
