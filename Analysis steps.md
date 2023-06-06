@@ -9,7 +9,7 @@ editor_options:
 
 # 1.Process of raw sequence data
 
-Datasets from different Bioproject were downloaded and denoised independently, then merged for Taxonomic classification
+Datasets from different Bioproject were downloaded and denoised independently, then merged for Taxonomic classification, Bioproject numbers were summarized in additional file 2-Data 37
 
 ## 1.1 Import raw sequence
 
